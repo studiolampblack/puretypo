@@ -1,0 +1,82 @@
+# Jykell configuration
+#markdown: redcarpet
+#highlighter: pygments
+markdown: kramdown
+paginate: 5
+language: 'en-in'
+
+# Website info
+name: 'Tech Noob'
+description: "Everything tech from LOGO to Azure Cloud. But patience and baby steps, first. (Also, we’re still under construction.)"
+
+# Author's info
+author: 'Ram Iyer'
+# edit 'categories' in the front matter of every post to match this username
+nickname: ram
+bio: 'Writer, PowerShell freak, philophobe, dreamer, and a typographer.'
+location: 'Bangalore, KA'
+auth_url: 'http://ramiyer.me'
+url: 'http://noob.ramiyer.me'
+image: 'assets/images/ram.png'
+
+short_url: 'noob.ramiyer.me'
+short_auth_url: 'ramiyer.me'
+google_analytics: UA-96215433-1
+disqus: username
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:username
+# permalink: /tag/:tag
+
+
+# gems and other configs
+gems: [jekyll-paginate]
+exclude: [vendor]
+
+# Turn on smart quotes
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  syntax_highlighter: rouge
+  input: GFM
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
+
+
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: false
+lsi: false
+username: theramiyer
+repo: noob.ramiyer.me
+branch: master
+relative_source: ../noob.ramiyer.me/
+destination: ../jasper-pages/
+production_url:  https://theramiyer.github.io/noob.ramiyer.me/
+source_url:      https://github.com/theramiyer/noob.ramiyer.me/
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
