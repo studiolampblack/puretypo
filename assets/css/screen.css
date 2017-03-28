@@ -1080,10 +1080,11 @@ body:not(.post-template) .post-title {
 
 .post-template .post-title {
     margin-top: 1.5em;
-    margin-bottom: 0;
+    margin-bottom: 1.2em;
     letter-spacing: 0;
-    font-size: 4rem;
+    font-size: 5rem;
     color: #606666;
+    text-align: center;
 }
 
 .post-template .post-meta {
