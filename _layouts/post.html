@@ -39,15 +39,15 @@ class: 'post-template'
           <section class="post-meta">
           <!-- <a href='{{ site.baseurl }}{{ page.about }}'>{{ site.author }}</a> -->
             Posted on
-            <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
+            <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:'%Y-%m-%d' }}</time>
               <!-- [[tags prefix=" on "]] -->
               {% if page.tags.size > 0 %}
               in
               {% for tag in page.tags %}
                   {% if forloop.index == page.tags.size %}
-                     <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
+                     <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag }}</a>
                   {% else %}
-                     <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
+                     <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag }}</a>,
                   {% endif %}
               {% endfor %}
               {% endif %}

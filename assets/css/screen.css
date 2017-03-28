@@ -995,10 +995,11 @@ body:not(.post-template) .post-title {
 .post-meta {
     display: block;
     margin: 1.75rem 0 0 0;
-    font-family: "Lora", serif;
-    font-size: 1.5rem;
+    font-family: "Merriweather", serif;
+    font-size: 1.3rem;
     line-height: 2.2rem;
     color: #9EABB3;
+    letter-spacing: 0.02em;
 }
 
 .author-thumb {
