@@ -925,6 +925,16 @@ body.nav-opened .nav {
     word-wrap: break-word;
 }
 
+.post .drop-cap {
+  font-family: Lora, Georgia, serif;
+  font-size: 7.4rem;
+  font-weight: bold;
+  float: left;
+  padding-top: 1.7rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
 /*.post:after {*/

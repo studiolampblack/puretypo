@@ -10,9 +10,7 @@ tags:
 logo: 'assets/images/ghost.png'
 ---
 
-Hey there, long time no see!
-
-Yeah right, you and I both have a full time job that only gives us time enough to watch an episode of *Man vs Wild*! Alright, I'll get to the point.
+Hey there, long time no see! Yeah right, you and I both have a full time job that only gives us time enough to watch an episode of *Man vs Wild*! Alright, I'll get to the point.
 
 So the question was, how many of us use the good old *Command Prompt* these days? How many of us have switched to _PowerShell_? How many of us still type in short commands in the _Run_ window to launch applications? Honestly, I still open the Run prompt and type in `powerpnt`, `chrome`, `iexplore`, `appwiz.cpl`, `gpedit.msc`, etc. I don't know why, but I like to launch stuff this way. My brother still stares at me when I launch Notepad by saying `notepad`. Of course, I do admit, using `Run` is kinda old-school in this age of voice control.
 
