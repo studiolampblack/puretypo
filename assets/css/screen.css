@@ -1193,6 +1193,10 @@ body:not(.post-template) .post-title {
     color: #111;
 }
 
+.fa {
+  margin-right: 0.3em;
+}
+
 /* Create some space to the right for the share links */
 .post-footer .author {
     margin-right: 180px;

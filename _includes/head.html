@@ -1,3 +1,5 @@
+    <script src="https://use.fontawesome.com/6df3d6bd7e.js"></script>
+    
     <link rel="canonical" href="{{ site.baseurl }}" />
     <meta name="referrer" content="origin" />
     <link rel="next" href="{{ site.baseurl }}page2/" />
@@ -14,6 +16,10 @@
     <meta name="twitter:description" content="{{ site.description }}" />
     <meta name="twitter:url" content="{{ site.baseurl }}" />
     <meta name="twitter:image:src" content="{{ site.baseurl }}assets/images/cover1.jpg" />
+
+    {% if site.facebook %}
+      <meta property="article:author" content="https://facebook.com/{{ site.facebook }}" />
+    {% endif %}
 
     <script type="application/ld+json">
 {

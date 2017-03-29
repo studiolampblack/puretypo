@@ -75,8 +75,11 @@ class: 'post-template'
                     <p>Read <a href="{{ site.baseurl }}author/{{ site.nickname }}">more posts</a> by this author.</p>
                 {% endif %}
                 <div class="author-meta">
-                    {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %}
-                    {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %}
+                  {% if site.facebook or site.twitter or site.instagram or site.linkedin or site.googleplus or site.github %}
+                    {% include social.html %}
+                  {% endif %}
+                  {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %}
+                  {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %}
                 </div>
             </section>
 
