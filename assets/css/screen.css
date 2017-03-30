@@ -1193,7 +1193,7 @@ body:not(.post-template) .post-title {
 }
 
 .fa {
-  margin: 0 0.3em 0 1em;
+  margin: 0 0.3em 0 0;
 }
 
 /* Create some space to the right for the share links */
@@ -1364,6 +1364,7 @@ body:not(.post-template) .post-title {
 }
 .author-meta a {
     text-decoration: none;
+    margin-right: 1em;
 }
 
 /* Turn off meta for page2+ to make room for extra
