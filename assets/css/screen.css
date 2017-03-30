@@ -983,9 +983,9 @@ body:not(.post-template) .post-title {
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #FFF;
+    background: #FFFDFD;
     border-radius: 100%;
-    box-shadow: #FFF 0 0 0 5px;
+    box-shadow: #FFFDFD 0 0 0 5px;
 }
 
 .read-more {
@@ -1290,9 +1290,9 @@ body:not(.post-template) .post-title {
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #FFF;
+    background: #FFFDFD;
     border-radius: 100%;
-    box-shadow: #FFF 0 0 0 5px;
+    box-shadow: #FFFDFD 0 0 0 5px;
 }
 
 .author-image {
