@@ -9,8 +9,6 @@ subclass: 'post tag-test tag-content'
 logo: 'assets/images/ghost.png'
 ---
 
-Hey! Let's talk about why I never became a billionaire in spite of winning so many lotteries worth millions of GBPs, shall we?
-
 You see, I'm a big man, perhaps. So many Nigerian princes have known me personally, who inherited loads and loads of wealth, BBC and other such giants have sponsored so many lotteries and I have won so many, but I never thought of claiming the money. I have always been about getting into social service (though I work for an IT services giant), and I love being around children who like to learn. I would like to be a founder of an educational society in future that would provide free education to people of any age. These billions of Great&nbsp;Britain Pounds would have helped me achieve my dream in months!
 
 How foolish was I to ignore those emails! They contained so many genuine forms that I just had to fill, so many genuine logos, so many holographic stickers, so many email addresses from the public domains, and oh God, so much money&mdash;and why? I was lazy to fill out those forms. Because almost always, I received those while at work, so I couldn't go about doing that filling thingy on my phone (though I have Office on it)&mdash;you know, it isn't polite to do that kinda stuff while in the middle of an important system upgrade call!
