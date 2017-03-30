@@ -40,7 +40,7 @@ current: author
             <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
             <span class="author-stats"><i class="icon-stats"></i>{% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{% else %}{{ paginator.total_posts }} posts{% endif %}</span>
         </div>
-        <div class="author-meta" style="font-size: 1.1em;">
+        <div class="author-meta">
           {% include social.html %}
         </div>
     </section>
