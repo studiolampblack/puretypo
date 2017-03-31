@@ -89,16 +89,13 @@ class: 'post-template'
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="http://twitter.com/share?text={{ page.title }}&amp;url={{ site.url }}{{ site.baseurl }}{{ page.url | remove: '/' }}"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <a class="icon-twitter" href="http://twitter.com/share?text={{ page.title }}&amp;url={{ site.url }}{{ site.baseurl }}{{ page.url | remove: '/' }}" target="_blank">
                     <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url | remove: '/' }}"
-                    onclick="window.open(this.href, 'facebook-share','menubar=no,toolbar=no,resizable=yes,height=300,width=600');return false;">
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url | remove: '/' }}" target="_blank">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url | remove: '/' }}"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                <a class="icon-google-plus" href="https://plus.google.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url | remove: '/' }}" target="_blank">
                     <span class="hidden">Google+</span>
                 </a>
             </section>
