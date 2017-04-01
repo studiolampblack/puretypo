@@ -65,3 +65,8 @@
 .highlight .gi{color:#43d08a}
 .highlight .language-json .w+.s2{color:#e45649}
 .highlight .language-json .kc{color:#0184bc}
+
+/* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
+.highlight .lineno {-webkit-user-select: none;-moz-user-select: none; -o-user-select: none;}
+.lineno::-moz-selection {background-color: transparent;} /* Mozilla specific */
+.lineno::selection {background-color: transparent;} /* Other major browsers */
