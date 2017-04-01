@@ -1,9 +1,10 @@
+/* Atom One Light syntax highlight theme */
 .highlight,pre .highlight{color:#383a42}
 .highlight pre{background:#fafafa}
 .highlight .hll{background:#fafafa}
 .highlight .c{color:#a0a1a7;font-style:italic}
 .highlight .err{color:#fff;background-color:#e05252}
-.highlight .k{color:#a626a4}
+.highlight .k{color:#A626A4}
 .highlight .l{color:#50a14f}
 .highlight .n{color:#383a42}
 .highlight .o{color:#383a42}
@@ -24,7 +25,7 @@
 .highlight .m{color:#986801}
 .highlight .s{color:#50a14f}
 .highlight .na{color:#986801}
-.highlight .nb{color:#c18401}
+.highlight .nb{color:#0184BC}
 .highlight .nc{color:#c18401}
 .highlight .no{color:#c18401}
 .highlight .nd{color:#c18401}
@@ -36,7 +37,7 @@
 .highlight .nx{color:#383a42}
 .highlight .py{color:#c18401}
 .highlight .nt{color:#e45649}
-.highlight .nv{color:#c18401}
+.highlight .nv{color:#E45649}
 .highlight .ow{font-weight:700}
 .highlight .w{color:#f8f8f2}
 .highlight .mf{color:#986801}
