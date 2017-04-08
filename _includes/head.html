@@ -8,7 +8,7 @@
     <meta property="og:description" content="{% if page.current == 'home' %}{{ site.description }}{% else %}{{ page.content | strip_html | truncatewords: 40 }}{% endif %}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.cover }}" />
-    <meta property="fb:app_id" content="{% if site.fbappid %}{{ site.fbappid }}" />
+    <meta property="fb:app_id" content="{% if site.fbappid %}{{ site.fbappid }{% endif %}}" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ page.title }}" />
