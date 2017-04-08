@@ -29,6 +29,9 @@ class: 'post-template'
         </header>
 
         <section class="post-content">
+          <div class="post-readtime">
+            Read this in {% include read_time.html %}
+          </div>
 
           {% assign drop_cap = content | strip_html | truncate:4 | remove:'.' %}
           {% capture drop_cap_html %}<span class="drop-cap">{{ drop_cap }}</span>{% endcapture %}
@@ -38,18 +41,18 @@ class: 'post-template'
 
           <section class="post-meta">
           <!-- <a href='{{ site.baseurl }}{{ page.about }}'>{{ site.author }}</a> -->
-            Posted on
-            <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date:'%Y-%m-%d' }}</time>
+            Posted
+            <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">on {{ page.date | date:'%Y-%m-%d' }}</time>
               <!-- [[tags prefix=" on "]] -->
               {% if page.tags.size > 0 %}
-              in
-              {% for tag in page.tags %}
-                  {% if forloop.index == page.tags.size %}
-                     <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag }}</a>
-                  {% else %}
-                     <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag }}</a>,
-                  {% endif %}
-              {% endfor %}
+                in
+                {% for tag in page.tags %}
+                    {% if forloop.index == page.tags.size %}
+                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag }}</a>
+                    {% else %}
+                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag }}</a>,
+                    {% endif %}
+                {% endfor %}
               {% endif %}
           </section>
 
@@ -76,7 +79,7 @@ class: 'post-template'
                 {% endif %}
                 <div class="author-meta">
                   {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %}
-                  {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %}
+                  {% if site.url %}<span class="author-link icon-link"><a href="{{ site.auth_url }}"> {{ site.short_auth_url }}</a></span>{% endif %} }}</a></span>{% endif %}
                 </div>
                 <div class="author-meta">
                   {% if site.facebook or site.twitter %}

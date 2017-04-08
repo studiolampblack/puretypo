@@ -4,6 +4,8 @@
 markdown: kramdown
 paginate: 5
 language: 'en-in'
+timezone: Asia/Kolkata
+future: false
 
 # Website info
 name: 'Tech Noob'
@@ -45,6 +47,20 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   syntax_highlighter: rouge
   input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      logo: 'assets/images/ghost.png'
+      cover: 'assets/images/cover2.jpg'
+      subclass: 'post tag-test tag-content'
+      categories: 'ram'
+      author: 'Ram Iyer'
+      navigation: True
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)

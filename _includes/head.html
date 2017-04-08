@@ -5,15 +5,16 @@
     <meta property="og:site_name" content="{{ site.name }}" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }} | {{ site.name }}" />
-    <meta property="og:description" content="{{ page.content | strip_html | truncatewords: 40 }}" />
+    <meta property="og:description" content="{% if page.current == 'home' %}{{ site.description }}{% else %}{{ page.content | strip_html | truncatewords: 40 }}{% endif %}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    <!--<meta property="og:image" content="{{ site.url }}{{ page.cover }}" />-->
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.cover }}" />
+    <meta property="fb:app_id" content="{% if site.fbappid %}{{ site.fbappid }}" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:description" content="{{ page.content | strip_html | truncate: 75 }}" />
+    <meta name="twitter:description" content="{% if page.current == 'home' %}{{ site.description }}{% else %}{{ page.content | strip_html | truncate: 75 }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-    <meta name="twitter:image:src" content="{{ site.url }}{{ page.cover }}" />
+    <!--<meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}assets/images/cover2.jpg" />-->
 
     {% if site.facebook %}
       <meta property="article:author" content="https://facebook.com/{{ site.facebook }}" />
@@ -23,7 +24,7 @@
 {
     "@context": "http://schema.org",
     "@type": "Website",
-    "publisher": "Finding The Way Home",
+    "publisher": "{{ site.name }}",
     "url": "{{ site.baseurl }}",
     "image": "{{ site.baseurl }}assets/images/cover1.jpg",
     "description": "{{ site.description }}"
