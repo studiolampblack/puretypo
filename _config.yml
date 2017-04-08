@@ -83,7 +83,7 @@ defaults:
 # or "master" otherwise
 safe: false
 lsi: false
-username: theramiyer
+username: crimsoncanines
 repo: noob
 branch: master
 relative_source: ../noob.ramiyer.me/
