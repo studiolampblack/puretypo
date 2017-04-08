@@ -88,7 +88,7 @@ repo: noob
 branch: master
 relative_source: ../noob.ramiyer.me/
 destination: ../jasper-pages/
-production_url:  https://crimsoncanines.github.io/noob.ramiyer.me/
+production_url:  https://crimsoncanines.github.io/noob/
 source_url:      https://github.com/crimsoncanines/noob
 
 exclude:
