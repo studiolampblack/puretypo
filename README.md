@@ -13,7 +13,7 @@ to the original theme. Besides, I have recently updated it to match the current 
 
 ## Live demo
 
-[typo Live Demo](http://crimsoncanines.github.io/typo/)
+[Typo Live Demo](http://crimsoncanines.github.io/typo/)
 
 [Jasper Live Demo](https://biomadeira.github.io/jasper)
 
