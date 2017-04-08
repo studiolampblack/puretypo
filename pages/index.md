@@ -10,8 +10,8 @@ permalink: /archive/
 
 A blog is usually made with a dream to be a big reference resource. Given that I have a rule that the posts should not exceed 500 or 600 words, the number of posts would be high on any given subject. So I'm collating all the topics based on the tags. This would be manually updated until I learn how to programmatically do that here&mdash;new to Jekyll. :smile:
 
-- [PowerShell posts](http://noob.ramiyer.me/tag/powershell)
-- [Gotcha posts](http://noob.ramiyer.me/tag/gotcha)
+- [PowerShell posts](http://typo.midnightlamp.black/tag/powershell)
+- [Gotcha posts](http://typo.midnightlamp.black/tag/gotcha)
 
 Also listed here are the posts, in reverse chronological order:
 

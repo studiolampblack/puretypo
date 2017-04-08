@@ -8,7 +8,7 @@ timezone: Asia/Kolkata
 future: false
 
 # Website info
-name: 'Tech Noob'
+name: 'Typo Demo'
 description: "Everything tech from LOGO to Azure Cloud. But patience and baby steps, first. (Also, we’re still under construction.)"
 
 # Author's info
@@ -18,14 +18,14 @@ nickname: ram
 bio: 'Writer, PowerShell freak, philophobe, dreamer, and a typographer.'
 location: 'Bangalore, KA'
 auth_url: 'http://ramiyer.me'
-url: 'http://noob.ramiyer.me'
+url: 'http://typo.midnightlamp.black'
 image: 'assets/images/ram.png'
 
 # social links
 facebook: theramiyer
 twitter: theramiyer
 
-short_url: 'noob.ramiyer.me'
+short_url: 'typo.midnightlamp.black'
 short_auth_url: 'ramiyer.me'
 google_analytics: UA-96215433-1
 disqus: username
@@ -84,12 +84,12 @@ defaults:
 safe: false
 lsi: false
 username: crimsoncanines
-repo: noob
+repo: typo
 branch: master
-relative_source: ../noob.ramiyer.me/
+relative_source: ../typo.midnightlamp.black/
 destination: ../jasper-pages/
-production_url:  https://crimsoncanines.github.io/noob/
-source_url:      https://github.com/crimsoncanines/noob
+production_url:  https://crimsoncanines.github.io/typo/
+source_url:      https://github.com/crimsoncanines/typo
 
 exclude:
   - README.md

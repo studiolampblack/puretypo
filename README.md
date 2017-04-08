@@ -1,6 +1,6 @@
 ## Jasper
 
-[![Build Status](https://travis-ci.org/crimsoncanines/noob.svg?branch=master)](https://travis-ci.org/crimsoncanines/noob)
+[![Build Status](https://travis-ci.org/crimsoncanines/typo.svg?branch=master)](https://travis-ci.org/crimsoncanines/typo)
 [![Ruby](https://img.shields.io/badge/ruby-2.1.1-blue.svg?style=flat)](http://travis-ci.org/biomadeira/jasper)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.0.0-blue.svg?style=flat)](http://travis-ci.org/biomadeira/jasper)
 
@@ -13,7 +13,7 @@ to the original theme. Besides, I have recently updated it to match the current 
 
 ## Live demo
 
-[Noob Live Demo](http://crimsoncanines.github.io/noob/)
+[typo Live Demo](http://crimsoncanines.github.io/typo/)
 
 [Jasper Live Demo](https://biomadeira.github.io/jasper)
 
@@ -40,7 +40,7 @@ to the original theme. Besides, I have recently updated it to match the current 
 **404 page**
 ![related page](https://raw.githubusercontent.com/biomadeira/jasper/master/assets/images/jasper_screen6.png)
 
-## Noob theme includes
+## Typo theme includes
 
 * Pagination
 * Author page (New 07.02.2015)
@@ -66,7 +66,7 @@ to the original theme. Besides, I have recently updated it to match the current 
 **2)** built the site with [travis-ci](https://travis-ci.org/) (with goodies from [jekyll-travis](https://github.com/mfenner/jekyll-travis)) automatically pushing the generated *_site/* files to your *gh-pages* branch.
  This later approach is the one I am currently using to generate the live demo.
 
-For option **1)** simply clone this repository (*master branch*), and then run `jekyll serve` inside the directory. Upload the resulting *_site/* contents to your repository (*master branch* if uploading as your personal page (username.github.io) or *gh-pages branch* if uploading as a project page (as for the [demo](https://github.com/theramiyer/noob.ramiyer.me/tree/gh-pages)).
+For option **1)** simply clone this repository (*master branch*), and then run `jekyll serve` inside the directory. Upload the resulting *_site/* contents to your repository (*master branch* if uploading as your personal page (username.github.io) or *gh-pages branch* if uploading as a project page (as for the [demo](https://github.com/crimsoncanines/typo/tree/gh-pages)).
 
 For option **2)** you will need to set up travis-ci for your personal fork. Briefly all you need then is to change your details in *[\_config.yml](_config.yml)* so that you can push to your github repo. You will also need to generate a secure key to add to your *[.travis.yml](.travis.yml)* (you can find more info on how to do it in that file). Also make sure you read the documentation from [jekyll-travis](https://github.com/mfenner/jekyll-travis). This approach has clear advantages in that you simply push changes to your files and all the html files are generated for you. Also you get to know if everything is still fine with your site builds. Don't hesitate to contact me if you still have any issues (see below about issue tracking).
 
@@ -84,7 +84,7 @@ Feel free pull-request your patches and fixes.
 ## Thanks
 
 
-Many thanks to Fábio Madeira the Ghost team for all the design work that allows to make this clone possible. Also many thanks to all contributors, that help keeping the project alive and updated :smile:
+Many thanks to Fábio Madeira the Ghost team for all the design work that allows to make this clone possible. Also many thanks to all contributors, that help keeping the Jasper project alive and updated. :smile:
 
 
 ## Copyright & License
