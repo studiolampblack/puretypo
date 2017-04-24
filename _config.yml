@@ -14,6 +14,7 @@ description: "Everything tech from LOGO to Azure Cloud. But patience and baby st
 # Author's info
 authors:
   ram:
+    name: ram
     displayname: Ram Iyer
     bio: Writer, PowerShell freak, philophobe, dreamer, and a typographer.
     url: https://ramiyer.me
@@ -24,11 +25,15 @@ authors:
     location: 'Bangalore, KA'
 
   veena:
+    name: veena
     displayname: Veena Choudhary
     bio: Reader, blogger, dreamer.
     twitter: veena___singh
+    facebook: ar.veena.5
     image: assets/images/veena.png
     location: 'Mumbai, MH'
+    url: https://www.merakipost.com
+    shorturl: merakipost.com
 
 author: 'Ram Iyer'
 # edit 'categories' in the front matter of every post to match this username

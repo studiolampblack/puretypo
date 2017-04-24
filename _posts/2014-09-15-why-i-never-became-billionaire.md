@@ -3,7 +3,7 @@ layout: post
 title: Why I Never Became a Billionaire…
 date: '2014-09-15T15:12:00.001+05:30'
 cover: 'assets/images/cover2.jpg'
-categories: 'ram'
+author: ram
 tags:
 subclass: 'post tag-test tag-content'
 logo: 'assets/images/ghost.png'

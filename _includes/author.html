@@ -1,11 +1,11 @@
 {% assign author = site.authors[page.author] %}
 
 <figure class="author-image">
-    <a class="img" href="{{ site.baseurl }}author/{{ author }}" style="background-image: url({{ site.baseurl }}{{ author.image }})"><span class="hidden">{{ author.displayname }}'s Picture</span></a>
+    <a class="img" href="{{ site.baseurl }}author/{{ author.name }}" style="background-image: url({{ site.baseurl }}{{ author.image }})"><span class="hidden">{{ author.displayname }}'s Picture</span></a>
 </figure>
 
 <section class="author">
-  <h4><a href="/author">{{ author }}</a></h4>
+  <h4><a href="{{ site.baseurl }}author/{{ author.name }}">{{ author.displayname }}</a></h4>
   <p>{{ author.bio }}</p>
   <div class="author-meta">
     <span class="author-location icon-location">{{ author.location }}</span>
