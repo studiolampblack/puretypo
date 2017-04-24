@@ -74,6 +74,7 @@ defaults:
       cover: 'assets/images/cover2.jpg'
       subclass: 'post tag-test tag-content'
       navigation: True
+      author: ram
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
