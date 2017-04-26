@@ -1370,7 +1370,7 @@ body:not(.post-template) .post-title {
 }
 
 .author-meta {
-    margin: 1rem 0 0 0;
+    margin: 0.5rem 0 0 0;
 }
 /* Location, website, and link */
 .author-profile .author-meta {
