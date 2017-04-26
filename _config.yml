@@ -12,21 +12,41 @@ name: 'Typo Demo'
 description: "Everything tech from LOGO to Azure Cloud. But patience and baby steps, first. (Also, we’re still under construction.)"
 
 # Author's info
+authors:
+  ram:
+    name: ram
+    displayname: Ram Iyer
+    bio: Writer, PowerShell freak, philophobe, dreamer, and a typographer.
+    url: https://ramiyer.me
+    image: assets/images/ram.png
+    facebook: theramiyer
+    twitter: theramiyer
+    shorturl: ramiyer.me
+    location: 'Bangalore, KA'
+
+  veena:
+    name: veena
+    displayname: Veena Choudhary
+    bio: Reader, blogger, dreamer.
+    twitter: veena___singh
+    facebook: ar.veena.5
+    image: assets/images/veena.png
+    location: 'Mumbai, MH'
+    url: https://www.merakipost.com
+    shorturl: merakipost.com
+
 author: 'Ram Iyer'
 # edit 'categories' in the front matter of every post to match this username
 nickname: ram
 bio: 'Writer, PowerShell freak, philophobe, dreamer, and a typographer.'
-location: 'Bangalore, KA'
-auth_url: 'http://ramiyer.me'
-url: 'http://typo.midnightlamp.black'
 image: 'assets/images/ram.png'
 
 # social links
 facebook: theramiyer
 twitter: theramiyer
 
+url: 'http://typo.midnightlamp.black'
 short_url: 'typo.midnightlamp.black'
-short_auth_url: 'ramiyer.me'
 google_analytics: UA-96215433-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -58,9 +78,8 @@ defaults:
       logo: 'assets/images/ghost.png'
       cover: 'assets/images/cover2.jpg'
       subclass: 'post tag-test tag-content'
-      categories: 'ram'
-      author: 'Ram Iyer'
       navigation: True
+      author: ram
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)

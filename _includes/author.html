@@ -1,0 +1,26 @@
+{% assign author = site.authors[page.author] %}
+
+<figure class="author-image">
+    <!--<a class="img" href="{{ site.baseurl }}author/{{ author.name }}" style="background-image: url({{ site.baseurl }}{{ author.image }})"><span class="hidden">{{ author.displayname }}'s Picture</span></a>-->
+    <a class="img" style="background-image: url({{ site.baseurl }}{{ author.image }})"><span class="hidden">{{ author.displayname }}'s Picture</span></a>
+</figure>
+
+<section class="author">
+  <!--<h4><a href="{{ site.baseurl }}author/{{ author.name }}">{{ author.displayname }}</a></h4>-->
+  <h4>{{ author.displayname }}</h4>
+  <p>{{ author.bio }}</p>
+  <div class="author-meta">
+    <span class="author-location icon-location">{{ author.location }}</span>
+    <span class="author-link icon-link"><a href="{{ author.url }}">{{ author.shorturl }}</a></span>
+  </div>
+  <div class="author-meta">
+    <span class="fa">
+      <a href="https://twitter.com/{{ author.twitter }}">
+        <i class="fa icon-twitter" aria-hidden="true"></i>
+      {{ author.twitter }}</a>
+      <a href="https://www.facebook.com/{{ author.facebook }}">
+        <i class="fa icon-facebook" aria-hidden="true"></i>
+      {{ author.facebook }}</a>
+    </span>
+  </div>
+</section>
