@@ -3,7 +3,71 @@ layout: post
 cover: 'assets/images/cover2.jpg'
 title: From LOGO to TouchDevelop (Part 2)
 date: '2014-06-13 12:00:00'
-tags: evolution nostalgia
+tags:
+    netgalley
+    lightread
+    youngadult
+    classic
+    indian
+    lovestories
+    personalexperience
+    romance
+    contemporary
+    history
+    movieadaptations
+    newreleases
+    amazon
+    list
+    fantasy
+    funread
+    newonshelf
+    nonfiction
+    thriller
+    historicalfiction
+    philosophy
+    tragedy
+    adventure
+    goodreads
+    mystery
+    poems
+    shortstories
+    childrensfiction
+    feminism
+    movie
+    preorder
+    war
+    youtube
+    dystopia
+    events
+    fairytale
+    magicalrealism
+    trailers
+    giveaways
+    interactive
+    topten
+    DNF
+    inspirational
+    memoir
+    periodical
+    picturebook
+    alternateopinion
+    author interview
+    birthdays
+    conquests
+    erotica
+    religionandmythology
+    retelling
+    savethedate
+    soptlight
+    translation
+    Chara
+    biography
+    blogtour
+    erotic
+    kannada
+    korean
+    sciencefiction
+    selfhelp
 subclass: 'post tag-test tag-content'
 categories: 'ram'
 tags:
