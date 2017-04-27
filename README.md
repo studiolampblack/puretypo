@@ -1,19 +1,17 @@
 ## Jasper
 
-[![Build Status](https://travis-ci.org/crimsoncanines/typo.svg?branch=master)](https://travis-ci.org/crimsoncanines/typo)
-[![Ruby](https://img.shields.io/badge/ruby-2.1.1-blue.svg?style=flat)](http://travis-ci.org/biomadeira/jasper)
-[![Jekyll](https://img.shields.io/badge/jekyll-3.0.0-blue.svg?style=flat)](http://travis-ci.org/biomadeira/jasper)
+This is a pure-Jekyll fork of [Typo](https://github.com/crimsoncanines/typo), a fork of [Jasper](https://github.com/biomadeira/jasper), a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll inspired by [Kasper](https://github.com/rosario/kasper).
 
-This is a fork of [Jasper](https://github.com/biomadeira/jasper), a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll inspired by [Kasper](https://github.com/rosario/kasper).
+Typo (and Jasper) are great themes. Things are well-built, and Typo is typographically tuned. However, they're not "safe" Jekyll themes. When hosting your Jekyll site on GitHub Pages, GitHub runs the site with the `--safe` switch. Jasper and Typo have Jekyll plugins, which are not supported by GitHub Pages. So you need to build the site either locally or using Continuous Integration (such as Travis CI) and host it on GitHub.
 
-You might well ask at this point why bother making a new Casper's clone?
-Although this is inspired by Kasper, there are several **additional** features which make this port closer
-to the original theme. Besides, I have recently updated it to match the current version of the theme.
+Pure Typo is an attempt to ease this process. There's no need to build the site locally and push it to GitHub or use Continuous Integration&mdash;it all just works!
+
+Besides, Jasper and Typo have limitations such as, the site would have to be single-author. If not, the site has to be bent a little to get it to play nice with multiple authors. Pure Typo has none of those limitations. Of course, some things aren't even close to being as beautiful as Jasper, but hey, choices and trade-offs.
 
 
 ## Live demo
 
-[Typo Live Demo](http://crimsoncanines.github.io/typo/)
+[Pure Typo Live Demo](http://crimsoncanines.github.io/puretypo/)
 
 [Jasper Live Demo](https://biomadeira.github.io/jasper)
 
@@ -40,7 +38,7 @@ to the original theme. Besides, I have recently updated it to match the current 
 **404 page**
 ![related page](https://raw.githubusercontent.com/biomadeira/jasper/master/assets/images/jasper_screen6.png)
 
-## Typo theme includes
+## Pure Typo theme includes
 
 * Pagination
 * Author page (New 07.02.2015)
