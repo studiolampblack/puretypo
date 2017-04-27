@@ -2,6 +2,9 @@
 layout: page
 title: Tags
 permalink: /tags/
+logo: 'assets/images/ghost.png'
+current: tags
+cover: 'assets/images/cover1.jpg'
 ---
 <div class="post-meta">
   {% for tag in site.tags %}
@@ -9,15 +12,15 @@ permalink: /tags/
   {% endfor %}
 </div>
 <hr/>
-<div class="tags-expo-section">
+<div style="text-decoration: none;">
   {% for tag in site.tags %}
-  <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
-  <ul class="tags-expo-posts">
+  <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
+  <ul>
     {% for post in tag[1] %}
-      <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ post.url }}">
     <li>
       {{ post.title }}
-    <small class="post-date">{{ post.date | date_to_string }}</small>
+      <small>{{ post.date | date_to_string }}</small>
     </li>
     </a>
     {% endfor %}
