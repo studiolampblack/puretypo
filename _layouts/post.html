@@ -48,9 +48,9 @@ class: 'post-template'
                 in
                 {% for tag in page.tags %}
                     {% if forloop.index == page.tags.size %}
-                       <a href="{{ site.baseurl }}{{ site.tagpage }}#{{ tag | slugify }}">{{ tag }}</a>
+                       <a href="{{ site.tagpage }}#{{ tag | slugify }}">{{ tag }}</a>
                     {% else %}
-                       <a href="{{ site.baseurl }}{{ site.tagpage }}#{{ tag | slugify }}">{{ tag }}</a>,
+                       <a href="{{ site.tagpage }}#{{ tag | slugify }}">{{ tag }}</a>,
                     {% endif %}
                 {% endfor %}
               {% endif %}
