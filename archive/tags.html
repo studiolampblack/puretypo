@@ -6,7 +6,7 @@ logo: 'assets/images/ghost.png'
 current: tags
 cover: 'assets/images/cover1.jpg'
 ---
-<div class="post-meta">
+<div class="tag-cloud">
   {% for tag in site.tags %}
     <a href="#{{ tag[0] | slugify }}">{{ tag[0] | downcase }}</a>
   {% endfor %}

@@ -2,22 +2,25 @@
 layout: page
 title: Categories
 permalink: /categories/
+logo: 'assets/images/ghost.png'
+current: categories
+cover: 'assets/images/cover1.jpg'
 ---
-<div class="post-meta">
-  {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}">{{ tag[0] | downcase }}</a>
+<div class="tag-cloud">
+  {% for category in site.categories %}
+    <a href="#{{ category[0] | slugify }}">{{ category[0] | downcase }}</a>
   {% endfor %}
 </div>
 <hr/>
-<div class="tags-expo-section">
-  {% for tag in site.tags %}
-  <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
-  <ul class="tags-expo-posts">
-    {% for post in tag[1] %}
-      <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+<div style="text-decoration: none;">
+  {% for category in site.categories %}
+  <h3 id="{{ category[0] | slugify }}">{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <a href="{{ post.url }}">
     <li>
       {{ post.title }}
-    <small class="post-date">{{ post.date | date_to_string }}</small>
+      <small>{{ post.date | date_to_string }}</small>
     </li>
     </a>
     {% endfor %}

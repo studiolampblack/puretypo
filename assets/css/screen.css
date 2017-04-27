@@ -1030,6 +1030,34 @@ body:not(.post-template) .post-title {
     text-decoration: underline;
 }
 
+.tag-cloud {
+    display: block;
+    margin: 1.75rem 0 0 0;
+    font-family: Merriweather, 'Calisto MT', Athelas, Georgia, serif;
+    font-size: 1.3rem;
+    line-height: 3.0rem;
+    color: #9EABB3;
+    letter-spacing: 0.02em;
+}
+
+.tag-cloud a {
+    background: #9EABB3;
+    text-decoration: none;
+    border-radius: 0.25em;
+    color: #fffdfd;
+    padding: 0.1em 0.3em;
+    margin: 0.05em;
+}
+
+.tag-cloud a:hover {
+    transition: 0.5s ease;
+    background: #fffdfd;
+    color: #9EABB3;
+    padding: 0.1em 0.3em;
+    border-radius: 0.25em;
+    margin: 0.05em;
+}
+
 .user-meta {
     position: relative;
     padding: 0.3rem 40px 0 100px;
