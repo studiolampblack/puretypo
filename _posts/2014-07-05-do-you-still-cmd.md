@@ -6,21 +6,6 @@ date: '2014-07-05T15:55:00.001+05:30'
 subclass: 'post tag-test tag-content'
 categories: 'ram'
 tags:
-    netgalley
-    lightread
-    youngadult
-    classic
-    indian
-    lovestories
-    personalexperience
-    romance
-    contemporary
-    history
-    movieadaptations
-    newreleases
-    amazon
-    list
-    fantasy
     funread
     newonshelf
     nonfiction
@@ -38,38 +23,6 @@ tags:
     movie
     preorder
     war
-    youtube
-    dystopia
-    events
-    fairytale
-    magicalrealism
-    trailers
-    giveaways
-    interactive
-    topten
-    DNF
-    inspirational
-    memoir
-    periodical
-    picturebook
-    alternateopinion
-    author interview
-    birthdays
-    conquests
-    erotica
-    religionandmythology
-    retelling
-    savethedate
-    soptlight
-    translation
-    Chara
-    biography
-    blogtour
-    erotic
-    kannada
-    korean
-    sciencefiction
-    selfhelp
 logo: 'assets/images/ghost.png'
 ---
 

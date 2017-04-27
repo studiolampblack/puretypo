@@ -5,13 +5,6 @@ date: '2014-09-15T15:12:00.001+05:30'
 cover: 'assets/images/cover2.jpg'
 author: ram
 tags:
-    netgalley
-    lightread
-    youngadult
-    classic
-    indian
-    lovestories
-    personalexperience
     romance
     contemporary
     history
@@ -20,55 +13,6 @@ tags:
     amazon
     list
     fantasy
-    funread
-    newonshelf
-    nonfiction
-    thriller
-    historicalfiction
-    philosophy
-    tragedy
-    adventure
-    goodreads
-    mystery
-    poems
-    shortstories
-    childrensfiction
-    feminism
-    movie
-    preorder
-    war
-    youtube
-    dystopia
-    events
-    fairytale
-    magicalrealism
-    trailers
-    giveaways
-    interactive
-    topten
-    DNF
-    inspirational
-    memoir
-    periodical
-    picturebook
-    alternateopinion
-    author interview
-    birthdays
-    conquests
-    erotica
-    religionandmythology
-    retelling
-    savethedate
-    soptlight
-    translation
-    Chara
-    biography
-    blogtour
-    erotic
-    kannada
-    korean
-    sciencefiction
-    selfhelp
 subclass: 'post tag-test tag-content'
 logo: 'assets/images/ghost.png'
 ---
