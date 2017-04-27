@@ -51,6 +51,8 @@ google_analytics: UA-96215433-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
+tagpage: /tags/
+categorypage: '/categories/'
 
 # Permalinks
 permalink: /:title
