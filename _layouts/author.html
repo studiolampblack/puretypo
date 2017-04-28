@@ -8,6 +8,7 @@ label: Author
 logo: 'assets/images/ghost.png'
 current: author
 ---
+{% assign author = site.authors[page.author] %}
 <!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
@@ -25,31 +26,31 @@ current: author
     </header>
 
     <section class="author-profile inner">
-        {% if site.image %}
+        {% if author.image %}
         <figure class="author-image">
-            <div class="img" style="background-image: url({{ site.baseurl }}{{ site.image }})"><span class="hidden">{{ site.author }}'s Picture</span></div>
+            <div class="img" style="background-image: url({{ site.baseurl }}{{ author.image }})"><span class="hidden">{{ author.displayname }}'s Picture</span></div>
         </figure>
         {% endif %}
-        <h1 class="author-title">{{ site.author }}</h1>
-        {% if site.bio %}
-            <h2 class="author-bio">{{ site.bio }}</h2>
+        <h1 class="author-title">{{ author.displayname }}</h1>
+        {% if author.bio %}
+            <h2 class="author-bio">{{ author.bio }}</h2>
         {% endif %}
         <div class="author-meta">
-            {% if site.location %}<span class="author-location icon-location">{{ site.location }}</span>{% endif %}
-            {% if site.url %}<span class="author-link icon-link"><a href="{{ site.auth_url }}">{{ site.short_auth_url }}</a></span>{% endif %}
+            {% if author.location %}<span class="author-location icon-location">{{ author.location }}</span>{% endif %}
+            {% if author.url %}<span class="author-link icon-link"><a href="{{ author.url }}">{{ author.shorturl }}</a></span>{% endif %}
             <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
             <span class="author-stats"><i class="icon-stats"></i>{% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{% else %}{{ paginator.total_posts }} posts{% endif %}</span>
         </div>
         <div class="author-meta">
           <span class="fa">
-            {% if site.twitter %}
-              <a href="https://www.twitter.com/{{ site.twitter }}">
-                <i class="fa icon-twitter" aria-hidden="true"></i>@{{ site.twitter }}
+            {% if author.twitter %}
+              <a href="https://www.twitter.com/{{ author.twitter }}">
+                <i class="fa icon-twitter" aria-hidden="true"></i>@{{ author.twitter }}
               </a>
             {% endif %}
-            {% if site.facebook %}
-              <a href="https://www.facebook.com/{{ site.facebook }}">
-                <i class="fa icon-facebook" aria-hidden="true"></i>{{ site.facebook }}
+            {% if author.facebook %}
+              <a href="https://www.facebook.com/{{ author.facebook }}">
+                <i class="fa icon-facebook" aria-hidden="true"></i>{{ author.facebook }}
               </a>
             {% endif %}
           </span>
