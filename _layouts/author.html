@@ -8,7 +8,6 @@ label: Author
 logo: 'assets/images/ghost.png'
 current: author
 ---
-{% assign author = site.authors[page.author] %}
 <!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
@@ -25,6 +24,7 @@ current: author
         </nav>
     </header>
 
+{% assign author = site.authors[page.author] %}
     <section class="author-profile inner">
         {% if author.image %}
         <figure class="author-image">
