@@ -27,7 +27,7 @@
             {% if author.image %}<img class="author-thumb" src="{{ site.baseurl }}{{ author.image }}" alt="Author image" nopin="nopin" />{% endif %}
             <!-- author -->
             <!--<a href='{{ site.baseurl }}author/{{ author.name }}'>{{ author.displayname }}</a>-->
-            {{ author.displayname }}
+            <a href="/author/{{ author.name }}">{{ author.displayname }}</a>
             <!-- [[tags prefix=" on "]] -->
             {% if post.tags.size > 0 %}
                 in
