@@ -153,6 +153,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 .icon-stats:before {
     content: "\f606";
+    margin-right: 0.3em;
 }
 .icon-location:before {
     content: "\f607";
@@ -160,6 +161,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 .icon-link:before {
     content: "\f608";
+    margin-right: 0.1em;
 }
 .icon-menu:before {
     content: "\f609";
