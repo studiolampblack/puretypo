@@ -980,6 +980,12 @@ body:not(.post-template) .post-title {
     text-decoration: none;
 }
 
+.summary-img {
+  display: block;
+  max-width: 95%;
+  margin: 1em auto;
+}
+
 .post-excerpt p {
     margin: 0;
     font-size: 1.7rem;
