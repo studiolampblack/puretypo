@@ -54,7 +54,7 @@ hr {
 mark { background: #FF0; color: #000; }
 code, kbd, pre,
 samp { font-family: Consolas, Menlo, Monaco, monospace; font-size: 1em; }
-pre { white-space: initial; }
+pre { white-space: pre-wrap; }
 q { quotes: "\201C" "\201D" "\2018" "\2019"; }
 small { font-size: 80%; }
 sub, sup {
