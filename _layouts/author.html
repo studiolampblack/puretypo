@@ -66,7 +66,6 @@ current: author
 
 {% assign sorted-posts = site.posts | where: "author", page.author %}
 {% for post in sorted-posts  %}
-    {% capture post_count %} {{ post_count | plus: 1 }}{% endcapture %}
 
     <article class="post">
         <header class="post-header">
