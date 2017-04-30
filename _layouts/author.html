@@ -65,7 +65,7 @@ current: author
 
 
 {% assign sorted-posts = site.posts | where: "author", page.author %}
-{% for post in sorted-posts  %}
+{% for post in sorted-posts | limit: 10  %}
 
     <article class="post">
         <header class="post-header">
@@ -92,6 +92,5 @@ current: author
             <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">on {{ post.date | date:'%Y-%m-%d' }}</time>
         </footer>
     </article>
-
 
 {% endfor %}
