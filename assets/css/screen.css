@@ -969,7 +969,19 @@ body.nav-opened .nav {
 body:not(.post-template) .post-title {
     font-size: 5rem;
     margin-top: 1.5em;
-    margin-bottom: 1em;
+    margin-bottom: 0em;
+    color: #606666;
+    text-align: center;
+    line-height: 1.25em;
+    letter-spacing: 0em;
+}
+body:not(.post-template) .post-subtitle {
+    font-size: 2.5rem;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Merriweather;
     color: #606666;
     text-align: center;
     line-height: 1.25em;
