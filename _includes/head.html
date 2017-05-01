@@ -4,11 +4,11 @@
 
     <meta property="og:site_name" content="{{ site.name }}" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="{{ page.title }} | {{ site.name }}" />
+    <meta property="og:title" content="{% if page.current == 'home' %}{{ site.name }}{% else %}{{ page.title }} | {{ site.name }}{% endif %}" />
     <meta property="og:description" content="{% if page.current == 'home' %}{{ site.description }}{% else %}{{ page.content | strip_html | truncatewords: 40 }}{% endif %}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.cover }}" />
-    <meta property="fb:app_id" content="{% if site.fbappid %}{{ site.fbappid }}{% endif %}}" />
+    <meta property="og:image" content="{% if page.image %}{{ site.url }}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.cover }}{% endif %}" />
+    <meta property="fb:app_id" content="{% if site.fbappid %}{{ site.fbappid }}{% endif %}" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ page.title }}" />
@@ -17,7 +17,12 @@
     <!--<meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}assets/images/cover2.jpg" />-->
 
     {% if site.facebook %}
-      <meta property="article:author" content="https://facebook.com/{{ site.facebook }}" />
+      <meta property="article:publisher" content="https://facebook.com/{{ site.facebook }}" />
+    {% endif %}
+
+    {% assign author = site.authors[page.author] %}
+    {% if author.facebook %}
+      <meta property="article:author" content="https://facebook.com/{{ author.facebook }}" />
     {% endif %}
 
     <script type="application/ld+json">
