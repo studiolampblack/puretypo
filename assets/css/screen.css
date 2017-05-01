@@ -214,7 +214,7 @@ h4, h5, h6 {
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     color: #606666;
     line-height: 1.15em;
-    margin: 0 0 0.4em 0;
+    margin: 0 0 0.5em 0;
     font-family: "Lora", serif;
     text-rendering: geometricPrecision;
 }
@@ -2000,7 +2000,7 @@ body:not(.post-template) .post-subtitle {
 
     h1, h2, h3,
     h4, h5, h6 {
-        margin: 0 0 0.3em 0;
+        margin: 0 0 0.7em 0;
     }
 
     h1 {
