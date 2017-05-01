@@ -77,7 +77,7 @@ defaults:
     values:
       layout: post
       logo: 'assets/images/ghost.png'
-      cover: 'assets/images/cover2.jpg'
+      cover: 'assets/images/cover1.jpg'
       subclass: 'post tag-test tag-content'
       navigation: True
       author: veena
