@@ -30,7 +30,7 @@ authors:
     bio: An avid reader and history fanatic.
     twitter: veena___singh
     facebook: ar.veena.5
-    image: https://s.gravatar.com/avatar/2ffb754dabcf57a59a585362729216fc?s=80
+    image: assets/images/veena.png
     location: 'Mumbai, MH'
     url: https://www.merakipost.com
     shorturl: merakipost.com
@@ -39,7 +39,7 @@ author: 'Veena Choudhary'
 # edit 'categories' in the front matter of every post to match this username
 nickname: veena
 bio: An avid reader and history fanatic.
-image: https://s.gravatar.com/avatar/2ffb754dabcf57a59a585362729216fc?s=80
+image: assets/images/veena.png
 
 # social links
 facebook: merakipost
