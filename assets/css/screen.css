@@ -994,7 +994,7 @@ body:not(.post-template) .post-subtitle {
 
 .summary-img {
   display: block;
-  max-width: 126%;
+  max-width: 110%;
   min-width: 100%;
   margin: 1em auto;
   padding: 0.6em 0;
