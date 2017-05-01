@@ -8,8 +8,8 @@ timezone: Asia/Kolkata
 future: false
 
 # Website info
-name: 'Typo Demo'
-description: "Everything tech from LOGO to Azure Cloud. But patience and baby steps, first. (Also, we’re still under construction.)"
+name: 'Meraki Post'
+description: "Everything books, from reviews to interviews to all those awesome things!"
 
 # Author's info
 authors:
@@ -27,29 +27,28 @@ authors:
   veena:
     name: veena
     displayname: Veena Choudhary
-    bio: Reader, blogger, dreamer.
+    bio: An avid reader and history fanatic.
     twitter: veena___singh
     facebook: ar.veena.5
-    image: assets/images/veena.png
+    image: https://s.gravatar.com/avatar/2ffb754dabcf57a59a585362729216fc?s=80
     location: 'Mumbai, MH'
     url: https://www.merakipost.com
     shorturl: merakipost.com
 
-author: 'Ram Iyer'
+author: 'Veena Choudhary'
 # edit 'categories' in the front matter of every post to match this username
-nickname: ram
-bio: 'Writer, PowerShell freak, philophobe, dreamer, and a typographer.'
-image: 'assets/images/ram.png'
+nickname: veena
+bio: An avid reader and history fanatic.
+image: https://s.gravatar.com/avatar/2ffb754dabcf57a59a585362729216fc?s=80
 
 # social links
-facebook: theramiyer
-twitter: theramiyer
+facebook: merakipost
+twitter: merakipost
 
-url: 'http://puretypo.midnightlamp.black'
-shorturl: 'puretypo.midnightlamp.black'
-google_analytics: UA-96215433-1
+url: 'http://test.merakipost.com'
+shorturl: 'test.merakipost.com'
+google_analytics:
 disqus: username
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 tagpage: /tags/
 categorypage: '/categories/'
@@ -81,12 +80,4 @@ defaults:
       cover: 'assets/images/cover2.jpg'
       subclass: 'post tag-test tag-content'
       navigation: True
-      author: ram
-
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
+      author: veena
