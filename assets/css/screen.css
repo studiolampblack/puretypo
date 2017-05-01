@@ -994,7 +994,7 @@ body:not(.post-template) .post-subtitle {
 
 .summary-img {
   display: block;
-  max-width: 110%;
+  max-width: 126%;
   min-width: 100%;
   margin: 1em auto;
   padding: 0.6em 0;
@@ -1775,8 +1775,8 @@ body:not(.post-template) .post-subtitle {
     }
 
     body:not(.post-template) .post-subtitle {
-        font-size: 2.5rem;
-        padding-bottom: 0.7em;
+        font-size: 2.1rem;
+        padding-bottom: 0;
     }
 
     hr {
@@ -2036,7 +2036,7 @@ body:not(.post-template) .post-subtitle {
 
     body:not(.post-template) .post-subtitle {
         font-size: 1.5rem;
-        padding-bottom: 1.5rem;
+        padding-bottom: 0;
     }
 
     .post-template .site-footer {
@@ -2045,6 +2045,12 @@ body:not(.post-template) .post-subtitle {
 
     .post-content img {
         padding: 0;
+        width: calc(100% + 32px); /* expand with to image + margins */
+        min-width: 0;
+        max-width: 112%; /* fallback when calc doesn't work */
+    }
+
+    .summary-img {
         width: calc(100% + 32px); /* expand with to image + margins */
         min-width: 0;
         max-width: 112%; /* fallback when calc doesn't work */
