@@ -1148,11 +1148,12 @@ body:not(.post-template) .post-subtitle {
 
 .post-template .post-title {
     margin-top: 1.5em;
-    margin-bottom: 1.2em;
+    margin-bottom: 0;
     letter-spacing: 0;
     font-size: 5rem;
     color: #606666;
     text-align: center;
+    line-height: 1.25em;
 }
 
 .post-template .post-meta {
@@ -1770,6 +1771,11 @@ body:not(.post-template) .post-subtitle {
 
     body:not(.post-template) .post-title {
         font-size: 3.2rem;
+        padding-bottom: 0.2em;
+    }
+
+    body:not(.post-template) .post-subtitle {
+        font-size: 1.6rem;
         padding-bottom: 0.7em;
     }
 
@@ -2025,6 +2031,11 @@ body:not(.post-template) .post-subtitle {
 
     body:not(.post-template) .post-title {
         font-size: 2.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+    body:not(.post-template) .post-subtitle {
+        font-size: 1.2rem;
         padding-bottom: 1.5rem;
     }
 
