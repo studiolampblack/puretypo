@@ -981,7 +981,7 @@ body:not(.post-template) .post-subtitle {
     margin-bottom: 2em;
     font-weight: normal;
     font-style: italic;
-    font-family: Merriweather;
+    font-family: Merriweather, 'Calisto MT', Athelas, Georgia, serif;
     color: #606666;
     text-align: center;
     line-height: 1.25em;
