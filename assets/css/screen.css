@@ -189,7 +189,7 @@ body {
     max-height: 100%;
     font-family: Crimson, 'Calisto MT', Athelas, Georgia, serif;
     letter-spacing: 0.01rem;
-    font-size: 1.7rem;
+    font-size: 2.1rem;
     line-height: 1.7em;
     font-weight:400;
     color: #606666;
@@ -1011,7 +1011,7 @@ body:not(.post-template) .post-subtitle {
 
 .post-excerpt p {
     margin: 0;
-    font-size: 1.7rem;
+    font-size: 2.1rem;
     line-height: 1.7em;
 }
 
@@ -1436,7 +1436,7 @@ body:not(.post-template) .post-subtitle {
     margin: 2rem 0;
     font-family: Crimson, 'Calisto MT', Athelas, Georgia, serif;
     letter-spacing: 0.01rem;
-    font-size: 1.7rem;
+    font-size: 2.1rem;
 }
 .author-meta span {
     display: inline-block;
