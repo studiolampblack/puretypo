@@ -654,7 +654,7 @@ body.nav-opened .nav {
     padding-right: 4%;
     padding-left: 5px;
     text-align: right;
-    font-size: 1.2rem;
+    font-size: 1.7rem;
     vertical-align: bottom;
     color: #B8B8B8;
     content: counter(item, lower-roman);
@@ -666,7 +666,7 @@ body.nav-opened .nav {
 .nav li a {
     text-decoration: none;
     line-height: 1.4;
-    font-size: 1.4rem;
+    font-size: 1.7rem;
     display: block;
     padding: 0.6rem 4%;
     overflow: hidden;
@@ -969,7 +969,7 @@ body.nav-opened .nav {
 body:not(.post-template) .post-title {
     font-size: 5rem;
     margin-top: 1.5em;
-    margin-bottom: 0em;
+    margin-bottom: 1em;
     color: #606666;
     text-align: center;
     line-height: 1.25em;
@@ -977,7 +977,7 @@ body:not(.post-template) .post-title {
 }
 body:not(.post-template) .post-subtitle {
     font-size: 2.5rem;
-    margin-top: 1em;
+    margin-top: -1.2em;
     margin-bottom: 2em;
     font-weight: normal;
     font-style: italic;
@@ -1148,7 +1148,7 @@ body:not(.post-template) .post-subtitle {
 
 .post-template .post-title {
     margin-top: 1.5em;
-    margin-bottom: 0;
+    margin-bottom: 1.2;
     letter-spacing: 0;
     font-size: 5rem;
     color: #606666;
@@ -1771,12 +1771,13 @@ body:not(.post-template) .post-subtitle {
 
     body:not(.post-template) .post-title {
         font-size: 3.2rem;
-        padding-bottom: 0.2em;
+        padding-bottom: 0.7em;
     }
 
     body:not(.post-template) .post-subtitle {
         font-size: 2.1rem;
         padding-bottom: 0;
+        margin-top: -1.6em;
     }
 
     hr {
@@ -2031,12 +2032,13 @@ body:not(.post-template) .post-subtitle {
 
     body:not(.post-template) .post-title {
         font-size: 2.5rem;
-        padding-bottom: 0.5rem;
+        padding-bottom: 1.5rem;
     }
 
     body:not(.post-template) .post-subtitle {
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         padding-bottom: 0;
+        margin-top: -1.6em;
     }
 
     .post-template .site-footer {
