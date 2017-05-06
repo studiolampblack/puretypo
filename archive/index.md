@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/merakipost.svg'
 current: archive
 cover: 'assets/images/cover1.jpg'
 ---

@@ -7,7 +7,7 @@ tags: speeches
 subclass: 'post tag-speeches'
 categories: 'ram'
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/merakipost.svg'
 cover: 'assets/images/cover4.jpg'
 ---
 
