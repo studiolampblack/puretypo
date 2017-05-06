@@ -60,7 +60,9 @@ permalink: /:title
 
 
 # gems and other configs
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
 exclude: [vendor]
 
 # Turn on smart quotes
