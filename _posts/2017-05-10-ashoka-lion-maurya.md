@@ -1,8 +1,8 @@
 ---
 title: Ashoka, Lion of Maurya
 subtitle: Ashok K. Banker
-date: 2017-05-10 17:00
-tags: 
+date: 2017-05-15 17:00
+tags:
 image: assets/postimages/ashokalionofmaurya.jpg
 ---
 
@@ -18,7 +18,7 @@ In his lifetime Ashoka fought a lot many wars and came to be known as the lion o
 
 ### Characters
 
-Ashoka is a prince like no other. He likes to fight in akhada to test himself. He is attentive, has lighting fast reflexes, measures two steps ahead, extremely emotional and love his family like any man should. Ashoka's disinterest in the throne sets him apart from his other brothers who would not hesitate to slaughter their own family members to keep the throne for themselves.
+Ashoka is a prince like no other. He likes to fight in *akhada* to test himself. He is attentive, has lighting fast reflexes, measures two steps ahead, extremely emotional and love his family like any man should. Ashoka's disinterest in the throne sets him apart from his other brothers who would not hesitate to slaughter their own family members to keep the throne for themselves.
 
 There are other characters in the book such as King Bindusara, Queen Shubhadrangi, queen mother, and Kautilya.
 
