@@ -2,7 +2,7 @@
 title: Kissing the Demon
 subtitle: Amrita Kumar
 date: 2017-04-20
-tags: fiction
+tags: 
 image: assets/postimages/kissingthedemon.JPG
 ---
 
