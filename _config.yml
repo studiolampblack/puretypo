@@ -35,6 +35,28 @@ authors:
     url: https://www.merakipost.com
     shorturl: merakipost.com
 
+  gazala:
+    name: gazala
+    displayname: Gazala Amreen
+    bio:
+    twitter:
+    facebook:
+    image:
+    location: Bangalore, KA
+    url: https://www.merakipost.com
+    shorturl: merakipost.com
+
+  pooja:
+    name: pooja
+    displayname: Pooja Ram
+    bio:
+    twitter: poojak8
+    facebook: poojaram08
+    image: assets/images/pooja.png
+    location: Bangalore, KA
+    url: https://www.merakipost.com
+    shorturl: merakipost.com
+
 author: 'Veena Choudhary'
 # edit 'categories' in the front matter of every post to match this username
 nickname: veena
