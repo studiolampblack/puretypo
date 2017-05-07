@@ -54,7 +54,7 @@ tagpage: /tags/
 categorypage: '/categories/'
 
 # Permalinks
-permalink: /:title
+permalink: /:year/:month/:title
 # permalink: /author/:username
 # permalink: /tag/:tag
 
