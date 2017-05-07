@@ -21,7 +21,7 @@ Oh, and by the way, these are in the reverse chronological order:
       {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
           {% unless forloop.first %}</ul>{% endunless %}
-          <p>{{ currentDate }}</p>
+          <p style="font-size: 4rem; margin: 4rem 0 2rem 0;">{{ currentDate }}</p>
           <ul>
           {% assign myDate = currentDate %}
       {% endif %}
