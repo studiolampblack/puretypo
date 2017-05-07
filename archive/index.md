@@ -7,12 +7,11 @@ current: archive
 cover: 'assets/images/cover1.jpg'
 ---
 
-A blog is usually made with a dream to be a big reference resource. Given that I have a rule that the posts should not exceed 500 or 600 words, the number of posts would be high on any given subject. So I'm collating all the topics based on the tags. This would be manually updated until I learn how to programmatically do that here&mdash;new to Jekyll. :smile:
+The Meraki Post team is a bunch of unconventionally busy people. We're all the time engaged in reading, getting deeper and deeper in the world of books. Think of us as Alan at the bookstore in the episode, *That Special Tug* of *Two and a Half Men*&mdash;sans the emotional breakdown, of course.
 
-- [PowerShell posts](http://typo.midnightlamp.black/tag/powershell)
-- [Gotcha posts](http://typo.midnightlamp.black/tag/gotcha)
+Over the years, it has led to us reading tens of titles, the reviews for which are posted here. These tens of titles could quickly become hundreds, and then looking for that exact title we reviewed back in 2015 would be a challenge! So here we have the complete list of all posts made by us. We hope this helps.
 
-Also listed here are the posts, in reverse chronological order:
+Oh, and by the way, these are in the reverse chronological order:
 
 <section class="archive-post-list">
 
