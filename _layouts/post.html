@@ -26,7 +26,9 @@ class: 'post-template'
 
         <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>
-            <h3 class="post-subtitle">by {{ page.subtitle }}</h3>
+            {% if page.subtitle %}
+              <h3 class="post-subtitle">by {{ page.subtitle }}</h3>
+            {% endif %}
         </header>
 
         <section class="post-content">

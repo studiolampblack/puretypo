@@ -71,7 +71,9 @@ current: author
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url | remove: '/' }}">{{ post.title }}</a></h2>
-            <h3 class="post-subtitle">by {{ post.subtitle }}</h3>
+            {% if post.subtitle %}
+              <h3 class="post-subtitle">by {{ post.subtitle }}</h3>
+            {% endif %}
         </header>
         <section class="post-excerpt">
             <p>{{ post.content | strip_html | truncatewords: 75 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">&raquo;</a></p>
