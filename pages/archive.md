@@ -5,6 +5,7 @@ navigation: True
 logo: 'assets/images/merakipost.svg'
 current: archive
 cover: 'assets/images/cover1.jpg'
+permalink: /archive/
 ---
 
 The Meraki Post team is a bunch of unconventionally busy people. We're all the time engaged in reading, getting deeper and deeper in the world of books. Think of us as Alan at the bookstore in the episode, *That Special Tug* of *Two and a Half Men*&mdash;sans the emotional breakdown, of course.
@@ -24,7 +25,7 @@ Oh, and by the way, these are in the reverse chronological order:
           <ul>
           {% assign myDate = currentDate %}
       {% endif %}
-      <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a> by <a href="/author/{{ author.name }}">{{ author.displayname }}</a></li>
+      <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a>, posted by <a href="/author/{{ author.name }}">{{ author.displayname }}</a></li>
       {% if forloop.last %}</ul>{% endif %}
    {% endfor %}
 
