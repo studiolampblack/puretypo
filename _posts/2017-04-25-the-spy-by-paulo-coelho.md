@@ -6,7 +6,7 @@ image: assets/postimages/thespy.jpg
 date: '2017-04-25T10:43:00.000+05:30'
 author: veena
 tags:
-- historicalfiction
+- historical fiction
 - history
 - netgalley
 - feminism
