@@ -1168,7 +1168,7 @@ body:not(.post-template) .post-subtitle {
     font-size: 1.3rem;
     line-height: 2.2rem;
     color: #9EABB3;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .post-template .post-date {
@@ -1423,7 +1423,7 @@ body:not(.post-template) .post-subtitle {
 .author-bio {
     font-size: 1.8rem;
     line-height: 1.5em;
-    font-weight: 200;
+    font-weight: 400;
     color: #50585D;
     letter-spacing: 0;
     text-indent: 0;
