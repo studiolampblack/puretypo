@@ -67,6 +67,7 @@ current: author
 
 {% assign sorted-posts = site.posts | where: "author", page.author %}
 {% for post in sorted-posts limit: 10  %}
+{% assign foundImage = 0 %}
 
     <article class="post">
         <header class="post-header">
@@ -77,6 +78,20 @@ current: author
         </header>
         <section class="post-excerpt">
             <p>{{ post.content | strip_html | truncatewords: 75 }} <a class="read-more" href="{{ post.url }}">&raquo;</a></p>
+            {% if post.image %}
+                <img src="{{ site.baseurl }}{{ post.image }}" alt="cover: {{ post.title }}" class="summary-img"/>
+            {% else %}
+                {% assign images = post.content | split:"<img " %}
+                {% for image in images %}
+                    {% if image contains 'src' %}
+                        {% if foundImage == 0 %}
+                            {% assign html = image | split:"/>" | first %}
+                            <img {{ html }} class="summary-img" />
+                            {% assign foundImage = 1 %}
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
         </section>
         <footer class="post-meta">
             <!-- author -->
