@@ -995,7 +995,7 @@ body:not(.post-template) .post-subtitle {
 .summary-img {
   display: block;
   max-width: 126%;
-  min-width: 100%;
+  /* min-width: 100%; */
   margin: 1em auto;
   padding: 0.6em 0;
   /* Centers an image by (1) pushing its left edge to the
