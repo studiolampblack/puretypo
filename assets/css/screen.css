@@ -217,6 +217,7 @@ h4, h5, h6 {
     margin: 0 0 0.5em 0;
     font-family: "Lora", serif;
     text-rendering: geometricPrecision;
+    margin: 1.25em 0 1em 0;
 }
 
 h1 {
@@ -1799,7 +1800,6 @@ body:not(.post-template) .post-subtitle {
 
     h3 {
         font-size: 3.1rem;
-        margin: 1.5em 0 1em 0;
     }
 
     h4 {
