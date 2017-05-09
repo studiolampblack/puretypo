@@ -259,7 +259,7 @@ p, ul, ol, dl {
     -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    margin: 0 0 1.75em 0;
+    margin: 0 0 1em 0;
     text-rendering: geometricPrecision;
     -webkit-hyphens: auto;
        -moz-hyphens: auto;
@@ -1799,6 +1799,7 @@ body:not(.post-template) .post-subtitle {
 
     h3 {
         font-size: 3.1rem;
+        margin: 1.5em 0 1em 0;
     }
 
     h4 {
