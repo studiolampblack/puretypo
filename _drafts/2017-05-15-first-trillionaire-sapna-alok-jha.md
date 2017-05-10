@@ -57,17 +57,17 @@ Really? "Fastened her"?
 
 "Crazy doctor"; so convenient.
 
-There were also some strong "commerce" jargons, including referring to companies as "M/S So-and-So". I don't know if this is the beginning of a new trend. Also, I felt that the book assumes that the reader knows banking terms and practices. May my ignorance be pardoned, I had to Google some of the things mentioned in the book.
+There were also some strong "commerce" jargons, including referring to companies as "M/S So-and-So". I don't know if this is the beginning of a new trend. Also, I felt that the book assumes knowledge of banking terms and practices on the reader's part. May my ignorance be pardoned, I had to Google some of the things mentioned in the book.
 
 The important point is, many sentences in the book fail in basic grammar: wrong punctuations, wrong use of conjunctions (sometimes even wrong conjunctions), tense mix-up&hellip; I'm surprised this even cleared the front desk before printing.
 
 > Recently, investigators found out that Musa's Dubai-based company, Al Jamal Diamonds, is a front for his illegal trade in blood diamonds. 'On each trip, diamonds worth around $5–10&nbsp;lack are smuggled into Dubai and the African courier is paid $10,&nbsp;000 as his courier fee,' as per the report.
 
-My high school grammar class tells me, there are at least three errors in the quoted text.
+My high school grammar class tells me, there are _at least_ three errors in the quoted text.
 
 ### Good points
 
-To someone who's grown reading the likes of Champak, this book would be a memory refresher. The language has a "homely narrative" feel to it&mdash;the kind that reminds you of your granny.
+To someone who grew up reading the likes of Champak, this book would be a memory refresher. The language has a "homely narrative" feel to it&mdash;the kind that reminds you of your granny.
 
 In some places, the word patterns seem feminine. I think that's a good thing&mdash;the author's attempt to retain the feel of how the author of the original work (Mrs Sapna Jha in this case) wrote it.
 
@@ -77,7 +77,7 @@ I'm sorry to say this, but oh, where do I even begin?
 
 The book could use some (read: at least two rounds each, of basic and substantive) editing. It felt as though the manuscript was simply printed. Verbatim.
 
-There was no uniformity in the visual language. In some places, a scene break is shown using a blank line (which is confusing given the paragraph separation style chosen by them), while in others, there are three asterisks (which should've been followed throughout, in their case). The book follows no specific style: dialogues are in single quotes (which is a British English feature), but then, commas appear within the quotes even when they're not part of the speech (which is mostly an American English feature). And no, mixing them is _not_ Indian English.
+There was no uniformity in the visual language. In some places, a scene break is shown using a blank line (which is confusing given the paragraph separation style chosen by the the printers), while in others, there are three asterisks (which should've been followed throughout, in their case). The book follows no specific style: dialogues are in single quotes (which is a British English feature), but then, commas appear within the quotes even when they're not part of the speech (which is mostly an American English feature). And no, mixing them is _not_ Indian English.
 
 Sentences that are supposed to be things the character is saying to themselves in their head are not differentiated from narration, which confuses the reader.
 
@@ -99,7 +99,7 @@ And then there's more:
 
 - Text justification is turned on without hyphenation, thereby making the word spacing (horrendously) uneven.
 - There are page numbers on pages where chapters begin.
-- The text is sagging&mdash;the top margin is more than the bottom, with the page numbers cramped somewhere at the bottom.
+- The text is sagging&mdash;the top margin is more than the bottom one, with the page numbers cramped somewhere in the limited space.
 - The text blocks on the spread don't align. I'm guessing this is because Word decided to avoid widows and orphans by forcing content to the next pages.
 - There's *emphasis like this*, and then, there's __*emphasis on emphasis like this*__. I suddenly felt I was reading a government circular, where they were very generous in the use of the "Bold" *and* "Italics" formatting controls. I'm thankful they didn't add an underline, where they wanted <u>__*further emphasis*__</u>, or a <u>__*LITTLE MORE*__</u>. I think that was just luck, because I don't see where the need might've arisen in this book.
 - There's so much more, but I don't want to sound like a picky grandpa. I'll stop by saying, 'It's a book; show some respect.'
@@ -108,7 +108,7 @@ And then there's more:
 
 Abysmal.
 
-I understand that this review is just the opposite of what seems to be common perspective, but I promised the author an honest review; I'm just keeping my word.
+I see that this review is just the opposite of what seems to be common perspective, but I promised the author an honest review; I'm just keeping my word.
 
 ### Whom do I recommend this to
 
