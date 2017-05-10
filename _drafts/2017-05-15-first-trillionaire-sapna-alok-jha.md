@@ -1,7 +1,7 @@
 ---
 title: The First Trillionaire
 subtitle: Sapna Jha, translated by Alok Jha
-date: 2017-05-15
+date: 2017-05-10
 tags:
 - fiction
 - thriller
@@ -101,7 +101,7 @@ And then there's more:
 - There are page numbers on pages where chapters begin.
 - The text is sagging&mdash;the top margin is more than the bottom one, with the page numbers cramped somewhere in the limited space.
 - The text blocks on the spread don't align. I'm guessing this is because Word decided to avoid widows and orphans by forcing content to the next pages.
-- There's *emphasis like this*, and then, there's __*emphasis on emphasis like this*__. I suddenly felt I was reading a government circular, where they were very generous in the use of the "Bold" *and* "Italics" formatting controls. I'm thankful they didn't add an underline, where they wanted <u>__*further emphasis*__</u>, or a <u>__*LITTLE MORE*__</u>. I think that was just luck, because I don't see where the need might've arisen in this book.
+- There's *emphasis like this*, and then, there's __*emphasis on emphasis like this*__. I suddenly felt I was reading a government circular, where they were very generous in the use of the "Bold" *and* "Italics" formatting controls. I'm thankful they didn't add an underline, where they wanted __*<u>further emphasis</u>*__, or a __*<u>LITTLE MORE</u>*__. I think that was just luck, because I don't see where the need might've arisen in this book.
 - There's so much more, but I don't want to sound like a picky grandpa. I'll stop by saying, 'It's a book; show some respect.'
 
 ### Overall
@@ -114,4 +114,4 @@ I see that this review is just the opposite of what seems to be common perspecti
 
 Nobody.
 
-This book has to go through a round of drastic corrections before it can be considered a professional publication. I understand a first-time-writer has his issues, but this is just sloppy work. I wish the publishers read this post and consider making amends.
+This book has to go through a round of drastic corrections before it can be considered a professional publication. I understand a first-time-writer has his issues, but this is just sloppy work. If only the publishers read this post and considered making amends.
