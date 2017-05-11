@@ -28,7 +28,7 @@ If you'd like a review, or have any questions about the world of books, or even 
 </form>
 <script>
     var contactform =  document.getElementById('formaction');
-    contactform.setAttribute('action', '//formspree.io/' + 'your' + '@' + 'email' + '.' + 'com');
+    contactform.setAttribute('action', '//formspree.io/' + 'contact' + '@' + 'merakipost' + '.' + 'com');
 </script>
 
 You can find us on [Facebook](https://www.facebook.com/{{ site.facebook }}) or [Twitter](https://twitter.com/{{ site.twitter }}).
