@@ -16,7 +16,20 @@ Our to-read queues are at least five books long, at any given point in time. So 
 
 The charge helps us keep afloat, with respect to the charges we incur to run the site, and all. And after that's covered, we'd definitely love a cup of coffee; who doesn't? Oh, and please understand that in any case, the review would be honest. Be careful before you ask!
 
-If you'd like a review, or have any questions about the world of books, or even need our help with literature (short of writing your English Literature exams for you), please feel free to get in touch!
+If you'd like a review, or have any questions about the world of books, or even need our help with literature (short of writing your English Literature exams for you), please feel free to get in touch! Fill out the form below:
+
+<form id="formaction" method="POST">
+  <div><input name="name" placeholder="Your name" type="name" /></div>
+  <div><input name="email" placeholder="Your email" type="email" /></div>
+  <div><textarea name="message" placeholder="Your message"></textarea></div>
+  <input type="hidden" name="_next" value="{{ site.url }}/contact/thanks/" />
+  <div><input type="text" name="_gotcha" style="display:none" /></div>
+  <div><button type="submit">Send</button></div>
+</form>
+<script>
+    var contactform =  document.getElementById('formaction');
+    contactform.setAttribute('action', '//formspree.io/' + 'your' + '@' + 'email' + '.' + 'com');
+</script>
 
 You can find us on [Facebook](https://www.facebook.com/{{ site.facebook }}) or [Twitter](https://twitter.com/{{ site.twitter }}).
 
