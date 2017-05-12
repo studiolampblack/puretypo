@@ -5,6 +5,10 @@
     <!--prevent search engines from indexing test.merakipost.com-->
     <meta name="robots" content="noindex" />
 
+    {% if page.indexing == 'false' %}
+      <meta name="robots" content="noindex" />
+    {% endif %}
+
     <meta property="og:site_name" content="{{ site.name }}" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
