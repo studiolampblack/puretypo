@@ -1,7 +1,7 @@
 ---
 title: The First Trillionaire
 subtitle: Sapna Jha, translated by Alok Jha
-date: 2017-05-15
+date: 2017-05-20
 tags:
 - fiction
 - thriller
