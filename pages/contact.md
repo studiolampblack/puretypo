@@ -10,7 +10,7 @@ permalink: /contact/
 
 Hey there, it's good to see you!
 
-Meraki Post works for the reader community, as journalists to ensure that the world of literature remains a good place to be. We're constantly reading loads (and loads) of books, so we could quench the thirst of the community. At times, we behave like Alan in the _Two and a Half Men_ episode, _That Special Tug_&mdash;of course, sans the emotional breakdown.
+Meraki Post works for the reader community, to ensure that the world of literature remains a good place to be. We're constantly reading loads (and loads) of books, so we could quench the thirst of the community. At times, we behave like Alan in the _Two and a Half Men_ episode, _That Special Tug_&mdash;of course, sans the emotional breakdown.
 
 Our to-read queues are at least five books long, at any given point in time. So if you request a review for a book (either because you're planning to buy it, or because you wrote it), we might take a while to post it here. If you would rather have us review your book on priority for some reason, we certainly do that, but at a nominal charge.
 
