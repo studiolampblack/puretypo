@@ -57,7 +57,7 @@ Also, it looked like the author has tried to take the easy way out at some very 
 
 "Crazy doctor"; what a convenient stereotype!
 
-There were also some strong commerce jargons, including referring to companies as "M/S So-and-So". I don't know if this is the beginning of a new trend. Also, I felt that the book assumes knowledge of banking terms and practices on the reader's part. May my ignorance be pardoned, I had to Google some of the things mentioned in the book.
+There were also some strong commerce jargons, including referring to companies as "M/S So-and-So" in a conversation. I don't know if this is the beginning of a new trend. Also, I felt that the book assumes knowledge of banking terms and practices on the reader's part. May my ignorance be pardoned, I had to Google some of the things mentioned in the book.
 
 But what annoyed me was that many sentences in the book failed in basic grammar: wrong punctuations, wrong use of conjunctions (sometimes even wrong conjunctions), tense mix-up&hellip; I was surprised it even cleared the front desk before printing.
 
@@ -75,11 +75,13 @@ In some places, the word patterns seem feminine. I think that's a good thing&mda
 
 ### Bad points
 
-Please bring yourself a cup of coffee.
+> Do not take readers for granted.
+
+This is where you bring yourself a cup of coffee.
 
 Bollywood masala should _never_ be converted into a book in the first place; it's a disgrace to the art of writing.
 
-The technical aspects of a story are important. Therefore, use of Transformers-like contraptions _must_ have a basis much stronger than "crazy doctor", and be accompanied by facts such as Google&nbsp;Navigation.
+The technical aspects of a story are important. Therefore, use of Transformers-like contraptions _must_ have a basis much stronger than "crazy doctor".
 
 Spoiler alert:
 
@@ -89,11 +91,11 @@ Spoiler-free zone:
 
 > The book could use some (read: at least two rounds each, of basic and substantive) editing.
 
-It felt as though the manuscript was simply printed. Verbatim. There was no uniformity in the visual language. In some places, a scene break is shown using a blank line (which is confusing, given the paragraph separation style chosen), while in others, there are three asterisks (which should've been followed throughout, in their case). The book follows no specific style: dialogues are in single quotes (which is a British English feature), but then, commas appear within the quotes even when they're not part of the speech (which is mostly an American English feature). And no, mixing them is _not_ Indian English.
+It felt as though the manuscript was simply printed. Verbatim. There's no uniformity in the visual language. In some places, a scene break is shown using a blank line (which is confusing, given the paragraph separation style chosen), while in others, there are three asterisks (which should've been followed throughout, in their case). The book follows no specific style: dialogues are in single quotes (which is a British English feature), but then, commas appear within the quotes even when they're not part of the speech (which is mostly an American English feature). And no, mixing them is _not_ Indian English.
 
 Characters' conversations with themselves are not differentiated from narration; these lead to confusion, and deteriorate the reading experience.
 
-Inter-word spaces are missing in many places. Even the most basic word processing software can identify these errors.
+Inter-word spaces are missing in many places. Even the most basic word processing software can identify these errors!
 
 Chapter names are supposed to appetise the reader, not seem like the author's notes on their storyboard.
 
@@ -108,7 +110,7 @@ It seems as though the publishing house simply fired up Word&nbsp;1993, copy-pas
 And then there's more:
 
 - Text justification is turned on without hyphenation, thereby making the word spacing (horrendously) uneven.
-- The text is sagging&mdash;the top margin is more than the bottom one, with the page number crammed in it.
+- The text is sagging&mdash;the top margin is more than the bottom one which has the page number crammed in it.
 - The text blocks on the spread don't align. I'm guessing this is because Word decided to avoid widows and orphans by forcing content to the next pages.
 - There's *emphasis like this*, and then, there's __*emphasis on emphasis like this*__. I suddenly felt I was reading a government circular, where they were very generous in the use of the bold *and* italics formatting controls. Luckily, there was no situation warranting an underline for __*<u>further emphasis</u>*__, or a __*<u>LITTLE MORE</u>*__.
 - There's so much more, but I don't want to sound like a picky grandpa. I'll stop by saying, 'It's a book; show some respect.'
