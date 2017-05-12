@@ -23,9 +23,9 @@ The author talks about herself in the book (or draws). There is a room for other
 
 As it happens with book of illustrations, the fun is in the illustrations. The draws herself in different situations. The book is collection of illustrations of simple things that bring little joys in life. The author is also a feminist by her own right.
 
-![Sample 1](assets/postimages/bigmushyhappylump/sample1.PNG)
-![Sample 2](assets/postimages/bigmushyhappylump/sample2.PNG)
-![Sample 3](assets/postimages/bigmushyhappylump/sample3.PNG)
+![Sample 1](/assets/postimages/bigmushyhappylump/sample1.PNG)
+![Sample 2](/assets/postimages/bigmushyhappylump/sample2.PNG)
+![Sample 3](/assets/postimages/bigmushyhappylump/sample3.PNG)
 
 ### Language
 
@@ -49,5 +49,5 @@ This is for all the women largely, and men. Those who enjoy funny illustrations 
 
 ### Honorable Mentions
 
-![Honorable mention 1](assets/postimages/bigmushyhappylump/mention1.PNG)
-![Honorable mention 2](assets/postimages/bigmushyhappylump/mention2.PNG)
+![Honorable mention 1](/assets/postimages/bigmushyhappylump/mention1.PNG)
+![Honorable mention 2](/assets/postimages/bigmushyhappylump/mention2.PNG)
