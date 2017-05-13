@@ -16,12 +16,12 @@ blogger_id: tag:blogger.com,1999:blog-4672875287451472458.post-45703053642426564
 blogger_orig_url: http://www.merakipost.com/2017/05/bull-by-david-elliot.html
 ---
 
-I prowl<br />
-The senseless alleys<br />
-Of the maze<br />
-In the darkness<br />
-And asphyxiating<br />
-Solitude.<br />
+I prowl\\
+The senseless alleys\\
+Of the maze\\
+In the darkness\\
+And asphyxiating\\
+Solitude.
 
 There used to be a monster. Half man and half bull. Often ridiculed, he became the face of the evil. Then came a prince who slayed the monster and everyone lived happily ever after. It is quite heard of Greek myth. Goodness triumphs over evil and that's how a great tale is born which is told over and over to the generations to come. But what happens when the evil side is given a voice.
 
@@ -47,11 +47,11 @@ It is the story of the non-winners in a mythological tale. This is what makes th
 
 Minotaur here is given a chance to narrate his side of the story. The book begins with the pride of Poseidon and anger of Minos. Poseidon, when disrespected, casts a spell of Pasiphae as a result of which she fornicates with a bull. This unusual copulation gives birth to Asterion. Pasiphae is advised to throw the child off the cliff or into the ocean, but the mother's affection does not allow her. Asterion lives but his life is a living hell. He does not make friends. Hell, he cannot even talk because of his thick lips. He grows up to modified nursery rhymes and self-loathing.
 
-> Mommy had a little calf.<br />
-Little calf.<br />
-Little calf.<br />
-Mommy has a little calf.<br />
-His nose is black as tar.<br />
+> Mommy had a little calf.\\
+Little calf.\\
+Little calf.\\
+Mommy has a little calf.\\
+His nose is black as tar.\\
 
 The entire book reveals the depressing side of Asterion's story, even though the myth remains the same.
 
@@ -84,58 +84,58 @@ This is for those who like a great narration. Those who like the retelling of cl
 ### Quotable quotes
 
 **Poseidon**
-> What?<br />
-You think a god should be more refined?<br />
-All touchy-feely?<br />
-No bump and grind?<br />
-Never uncouth?<br />
-Pure of mouth?<br />
-Pure of heart?<br />
-Never belch<br />
-Or swear<br />
-Or scratch himself<br />
-Or fart?<br />
-Never<br />
-Bawdy<br />
-Raunchy<br />
-Racy<br />
-Rude?<br />
-News flash:<br />
-You don't want a God.<br />
-You want a prude.<br />
+> What?\\
+You think a god should be more refined?\\
+All touchy-feely?\\
+No bump and grind?\\
+Never uncouth?\\
+Pure of mouth?\\
+Pure of heart?\\
+Never belch\\
+Or swear\\
+Or scratch himself\\
+Or fart?\\
+Never\\
+Bawdy\\
+Raunchy\\
+Racy\\
+Rude?\\
+News flash:\\
+You don't want a God.\\
+You want a prude.\\
 
 **Asterion**
-> I'd fly away. I'd leave them all behind.<br />
-Then they'd look up.<br />
-Instead of down on me.<br />
+> I'd fly away. I'd leave them all behind.\\
+Then they'd look up.\\
+Instead of down on me.\\
 
 
 **Asterion**
-> I watch Androgeos and try<br />
-To be like him.<br />
-But a rock can never fly.<br />
-A stone can't swim.<br />
+> I watch Androgeos and try\\
+To be like him.\\
+But a rock can never fly.\\
+A stone can't swim.\\
 
 **Poseidon**
-> I'm talkin' ’bout physics.<br />
-If it goes up, baby,<br />
-It's comin' down.<br />
+> I'm talkin' ’bout physics.\\
+If it goes up, baby,\\
+It's comin' down.\\
 
 **Adriane**
 > There's danger in sanity.
 
 **Poseidon**
-> Along with that sorry hive<br />
-Of thirteen sacrificial goats<br />
-Don't tell me.<br />
-I know: Since I said hive<br />
-I should call it bees.<br />
-But I'm Poseidon.<br />
-I do what I please:<br />
-Call heaven a hell,<br />
-A ceiling a floor.<br />
-So I mix my metaphors,<br />
-Grin and swallow.<br />
-I'm Poseidon. Not Apollo.<br />
+> Along with that sorry hive\\
+Of thirteen sacrificial goats\\
+Don't tell me.\\
+I know: Since I said hive\\
+I should call it bees.\\
+But I'm Poseidon.\\
+I do what I please:\\
+Call heaven a hell,\\
+A ceiling a floor.\\
+So I mix my metaphors,\\
+Grin and swallow.\\
+I'm Poseidon. Not Apollo.\\
 
 *I received an ARC of the book from the publisher. The opinion is my own, completely uninfluenced.*
