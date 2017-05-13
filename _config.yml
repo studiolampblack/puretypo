@@ -2,7 +2,7 @@
 #markdown: redcarpet
 #highlighter: pygments
 markdown: kramdown
-paginate: 5
+paginate: 6
 language: 'en-in'
 timezone: Asia/Kolkata
 future: false
@@ -13,6 +13,17 @@ description: "All about books, book reviews, adaptations to movies, book hauls, 
 
 # Author's info
 authors:
+  veena:
+    name: veena
+    displayname: Veena Choudhary
+    bio: An avid reader and history fanatic.
+    url: https://www.merakipost.com
+    image: assets/images/veena.png
+    facebook: ar.veena.5
+    twitter: veena___singh
+    shorturl: merakipost.com
+    location: 'Mumbai, MH'
+
   ram:
     name: ram
     displayname: Ram Iyer
@@ -24,21 +35,10 @@ authors:
     shorturl: ramiyer.me
     location: 'Bangalore, KA'
 
-  veena:
-    name: veena
-    displayname: Veena Choudhary
-    bio: An avid reader and history fanatic.
-    twitter: veena___singh
-    facebook: ar.veena.5
-    image: assets/images/veena.png
-    location: 'Mumbai, MH'
-    url: https://www.merakipost.com
-    shorturl: merakipost.com
-
   gazala:
     name: gazala
     displayname: Gazala Amreen
-    bio:
+    bio: Logophile, bibliophile, writer, designer, high on wanderlust and all things pretty
     twitter: gazl_jot
     facebook: archgazl
     image: /assets/images/gazala.png
