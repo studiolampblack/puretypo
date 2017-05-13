@@ -383,7 +383,7 @@ mark {
 code, tt {
     padding: 1px 3px;
     font-family: 'Fira Mono', Consolas, Menlo, Monaco, monospace;
-    font-size: 0.85em;
+    font-size: 0.7em;
     white-space: pre-wrap;
     border: #E3EDF3 1px solid;
     background: #F7FAFB;
@@ -402,7 +402,8 @@ pre {
     width: 100%;
     padding: 10px;
     font-family: 'Fira Mono', Consolas, Menlo, Monaco, monospace;
-    font-size: 0.9em;
+    font-size: 0.7em;
+    line-height: 1.3em;
     white-space: pre;
     overflow: auto;
     background: #F7FAFB;
