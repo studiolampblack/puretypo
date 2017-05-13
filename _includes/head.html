@@ -2,9 +2,7 @@
     <meta name="referrer" content="origin" />
     <link rel="next" href="{{ site.baseurl }}page2/" />
 
-    <!--prevent search engines from indexing test.merakipost.com-->
-    <meta name="robots" content="noindex" />
-
+    <!--prevent search engines from indexing certain pages-->
     {% if page.indexing == 'false' %}
       <meta name="robots" content="noindex" />
     {% endif %}
