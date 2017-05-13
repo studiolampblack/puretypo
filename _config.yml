@@ -39,9 +39,9 @@ authors:
     name: gazala
     displayname: Gazala Amreen
     bio:
-    twitter:
-    facebook:
-    image:
+    twitter: gazl_jot
+    facebook: archgazl
+    image: /assets/images/gazala.png
     location: Bangalore, KA
     url: https://www.merakipost.com
     shorturl: merakipost.com
@@ -63,7 +63,7 @@ twitter: merakipost
 
 url: 'http://test.merakipost.com'
 shorturl: 'test.merakipost.com'
-google_analytics:
+google_analytics: 97200314
 disqus: username
 baseurl: /
 tagpage: /tags/
