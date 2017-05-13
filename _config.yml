@@ -67,7 +67,7 @@ google_analytics: 97200314
 disqus: username
 baseurl: /
 tagpage: /tags/
-categorypage: '/categories/'
+categorypage: /categories/
 
 # Permalinks
 permalink: /:year/:month/:title
