@@ -1,7 +1,7 @@
 /* Atom One Light syntax highlight theme */
 .highlight,pre .highlight{color:#383a42}
-.highlight pre{background:#fafafa}
-.highlight .hll{background:#fafafa}
+.highlight pre{background:#fdfafa}
+.highlight .hll{background:#fdfafa}
 .highlight .c{color:#a0a1a7;font-style:italic}
 .highlight .err{color:#fff;background-color:#e05252}
 .highlight .k{color:#A626A4}
