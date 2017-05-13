@@ -1,7 +1,7 @@
 ---
 title: Ashoka, Lion of Maurya
 subtitle: Ashok K. Banker
-date: 2017-05-15 17:00
+date: 2017-05-10 17:00
 tags:
 image: assets/postimages/ashokalionofmaurya.jpg
 ---
