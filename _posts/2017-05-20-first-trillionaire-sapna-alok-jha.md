@@ -85,7 +85,7 @@ The technical aspects of a story are important. Therefore, use of Transformers-l
 
 Spoiler alert:
 
-People cannot simply walk into the sanctum of a famous temple like Somnath. I _grew up_ near Somnath. I know one cannot walk into the place as simply as portrayed in the book. Please do some groundwork. Also, expect chaos if you have people running into the temple with blood, gore and guns.
+People cannot simply walk into the sanctum of a famous temple like Somnath. I grew up near Somnath. I know one cannot walk into the place as simply as portrayed in the book. Please do some groundwork. Also, expect chaos if you have people running into the temple with blood, gore and guns.
 
 Spoiler-free zone:
 
