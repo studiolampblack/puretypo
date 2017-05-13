@@ -96,6 +96,20 @@ Sure enough, after some days of eagerly waiting, I received the book, and I star
 
 Notice the blank line after the frontmatter, and between the two paragraphs.
 
+### Poem verses
+
+Poem verses require line breaks, and not paragraph breaks, when splitting lines. To achieve this, put a double `\`, at the end of each line you need a line break at, like so:
+
+{% highlight text %}
+Mommy had a little calf.\\
+Little calf.\\
+Little calf.\\
+Mommy has a little calf.\\
+His nose is black as tar.
+{% endhighlight %}
+
+Remember not to add the `\\` markup at the end of the last line of the stanza.
+
 #### Cover image
 
 > Compressing the image is important.
