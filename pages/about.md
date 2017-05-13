@@ -10,7 +10,7 @@ permalink: /about/
 
 Meraki&nbsp;Post's journey has been nothing less than magical for us. Like a five-year-old gaping at meteor showers raining down, as he slowly wakes up in the middle of a breezy night, under the open sky, with nothing but a cashmere shawl wrapped around his shoulders.
 
-For a person who has the attention span of a gold fish and a heart of a voyeuristic lover, five years seem like an unusually long commitment; from _A&nbsp;Cup of&nbsp;Coffee and a&nbsp;Fairytale_ to _Meraki&nbsp;Post_. But as they say, 'Love moves mountains, _toh insaan ki kya aukat_.' I am not going _Gulzar_ all over here. All I want to say is, love for reading is what makes us, us.
+For a person who has the attention span of a gold fish and a heart of an evasive lover, five years seem like an unusually long commitment; from _A&nbsp;Cup of&nbsp;Coffee and a&nbsp;Fairytale_ to _Meraki&nbsp;Post_. But as they say, 'Love moves mountains, _toh insaan ki kya aukat_.' I am not going _Gulzar_ all over here. All I want to say is, love for reading is what makes us, us.
 
 The affair with reading dates back decades (two, to be precise), when the train journeys to my grandmother's used to begin with my father buying me _Champak_ and _Nandan_. Two and a half days in the train would slide by dreaming about smart bears and cunning foxes! The gift of listening was handed over by grandfather and the elixir of reading by his son. This blog has been consistent and improved upon by me with a lot of coaxing and inputs by the Mister himself. So I have the men in my life a lot to thank for.
 
