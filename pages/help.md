@@ -13,6 +13,12 @@ indexing: false
 
 Posts on this site are made using this beautifully simple lightweight markup language called *Markdown* (I know, Markdown markup sounds funny). This is so that you can use any text editor, including the good old Notepad, to write posts.
 
+Tools you need:
+
+1. [Atom by GitHub](https://atom.io/) to write posts in a beautiful interface.
+2. [RIOT by Lucian Sabo](http://luci.criosweb.ro/riot/download/) to compress images for the posts so things load superfast.
+3. [GitHub for Windows by GitHub](https://desktop.github.com/) to push content to GitHub.
+
 ### The basics
 
 1. Every post you make is essentially a Markdown file, which looks like a text file.
@@ -45,7 +51,7 @@ image: assets/postimages/imagename.jpg
 6. The subtitle should be the full name of the author, appropirately capitalised.
 7. The `author` attribute here is for the author of the post, which is you. Write your first name, all in lowercase, such as, `veena`.
 8. Tags are important. Make sure you leave the `tags:` line empty, and list down the tags preceded by a hyphen and a space. Tags can have spaces. So, it's OK to have a tag like `historical fiction`.
-9. Image is important, too. It is typically the cover image. *Compress the image*, and store it under `\assets\postimages` as a JPG file. Add the link to that image here, replacing `\` with `/`. Windows understands `\`, Jekyll understands `/`.
+9. Image is important, too. It is typically the image of the book cover. *Compress the image*, and store it under `\assets\postimages` as a JPG file. Add the link to that image here, replacing `\` with `/`. Windows understands `\`, Jekyll understands `/`.
 10. Most importantly, don't forget to enclose this content between two lines of three hyphens (`---`) each.
 
 Here's a complete sample to help you understand. Note that there's no `by` before the name of the author.
@@ -91,6 +97,8 @@ Sure enough, after some days of eagerly waiting, I received the book, and I star
 Notice the blank line after the frontmatter, and between the two paragraphs.
 
 #### Cover image
+
+> Compressing the image is important.
 
 Just copy-paste the following code. Liquid will take care of putting up the image, as long as you've specified the image in the frontmatter.
 
