@@ -21,7 +21,7 @@
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{% if page.current == 'home' %}{{ site.description }}{% else %}{{ page.content | markdownify | strip_html | truncate: 75 }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-    <!--<meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}assets/images/cover1.jpg" />-->
+    <meta name="twitter:image:src" content="{% if page.image %}{{ site.url }}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.cover }}{% endif %}" />
 
     {% if site.facebook %}
       <meta property="article:publisher" content="https://facebook.com/{{ site.facebook }}" />
