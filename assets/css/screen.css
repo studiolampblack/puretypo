@@ -954,6 +954,10 @@ body.nav-opened .nav {
 
 /* Add subtle load-in animation for content on the home page */
 .home-template .page-title {
+  font-family: 'Crimson Text', serif;
+  text-transform: uppercase;
+  font-weight: normal;
+  letter-spacing: 0.02em;
     -webkit-animation: fade-in-down 0.6s;
     animation: fade-in-down 0.6s;
     -webkit-animation-delay: 0.2s;
