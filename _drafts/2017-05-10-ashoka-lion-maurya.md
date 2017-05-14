@@ -9,7 +9,7 @@ image: assets/postimages/ashokalionofmaurya.jpg
 
 Ashok K. Banker is one of the pioneers that made mythological fiction popular amongst the young readers in India. This Ramayana and Mahabharata series is read and adored by plenty. Ashok K. Banker has now delved into historical fiction and what better subject to write about than the lion of Maurya itself.
 
-Ashoka is a historical figure about whom more ilia unknown than there is known about. It was a pleasure holding the book on a historical icon by the author. Somehow the book failed to meet my expectations but it has in no way questioned the credibility of the author.
+Ashoka is a historical figure about whom there's more unknown than known. It was a pleasure holding the book on a historical icon by the author. Somehow the book failed to meet my expectations but it has in no way questioned the credibility of the author.
 
 ![Cover: {{ page.title }}]({{ site.baseurl }}{{ page.image }} "Cover: {{ page.title }}")
 
