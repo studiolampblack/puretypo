@@ -4,10 +4,10 @@ subtitle: Irwin Allan Sealy
 date: 2017-05-15 09:00
 tags:
 - fiction
-image: assets/postimages/Zelaldinus.jpg
+image: assets/postimages/zelaldinus.JPG
 ---
 
-Fatehpur Sikri is a stunning example of city planning which has been inspiration for many architecture students and professionals alike. The set of buildings which were prime inspiration for Indian Institute of Management, Bangalore; never fails to awe you. Fathehpur Sikri was later abandoned due to unavailability of water and thus a whole city was left to whether.
+Fatehpur Sikri is a stunning example of city planning which has been an inspiration for many architecture students and professionals alike---the set of buildings which were prime inspiration for Indian Institute of Management, Bangalore---never fails to awe you. Fathehpur Sikri was later abandoned due to unavailability of water and thus a whole city was left to wither.
 
 A masquerade surrounding this beautiful place, that houses a chequered chess board, where Akbar played with actual people as pawns, is meant to be a beautiful experience.
 
@@ -15,7 +15,7 @@ A masquerade surrounding this beautiful place, that houses a chequered chess boa
 
 ### Cover page
 
-Akbar understood what no other monarch from of foreign origin ever did. To rule your subjects you have to understand them, better, infuse with them. And hence the language of art and architecture evolved. He has Indo-Saracenic architecture and miniature paintings to his credit. The book is set in Fatehpur Sikri, at least in the beginning, and the cover art is a miniature painting.
+Akbar understood what no other monarch from of foreign origin ever did: To rule your subjects, you have to understand them, better, and infuse with them. And hence the language of art and architecture evolved. He has Indo-Saracenic architecture and miniature paintings to his credit. The book is set in Fatehpur Sikri, at least in the beginning, and the cover art is a miniature painting.
 
 One cannot help but appreciate the comedy that follows the masque which is ever present in the painting. Akbar wearing swanky shoes and holding a tape recorder is funny, to say the least. A good amount of research has gone into designing the cover which includes the painting as well as the dull grey background.
 
