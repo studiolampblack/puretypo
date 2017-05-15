@@ -17,5 +17,7 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - secure: "gkUY2tzpThC+4O1rO73GFrYPu4oKA6wvJglJeLjInjHw4EtXg/krjwzuQwCYp455sdz3Uw63eKWhOQ1xFZJ7q2N8WlVPd4ti/S+vmhNtiVML7ZZ03RKL2qL32BLRZYM61xmboyi9BnjPEU/xIlI9oK9YMhxS3N/sFytNr0oY7F7jWNbx6UXQ57L27/w3QoeghjL6jkRW9ynkf0rQiNOdPwRKB+RHq3Sd9dXUWL0jc6dJ2u6+dAZSzzwRERIOewvL0OxS7LWuat5Gc7ik3zq9eE3LWUa7dsKOYcNk9DoUhHArqWiYlHN45Ip2iTJS1yu2jP266gzBj2WOCKVB5VKFcayd1mtK3fbqB2w++645WaxsfmlzUCgpysr/44ZAh3FAC0vIreDhnQyscpxwwsoYK9+jegnzA8fMkkdn/qlaXxrtntKSnynStKujs8V3sNHvwn9yCUuhT/1xUl57Dd7tQyH2EpqRblMHA0SyzFSL0mzvdSuiTMF+0W+zPsAFki61EbzoZG/7K5KheF63JiTHZaEgFQT52XS1n4BueKBzGX9yq4V8v5VWih+8wmej8KpY6vERt8EgcNl89yC4ecxAddJG8z+E9v4wf+RuS+mJ0cf4uMnEZGBMqapSEFhe3Bce3fO/NC07abdNcb3HrWnDyGI4n7bY/B0E1/rasfbiXfE="
+  COMMIT_AUTHOR_EMAIL: "ramakrishnan.rkology@gmail.com"
 
 sudo: false # route your build to the container-based infrastructure for a faster build
