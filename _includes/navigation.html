@@ -6,14 +6,12 @@
     <ul>
         <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>
         <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">About</a></li>
-        <li class="nav-archive" role="presentation"><a href="{{ site.baseurl }}archive">Archive</a></li>
-        <li class="nav-archive" role="presentation"><a href="{{ site.baseurl }}tags/">Tags</a></li>
-        <li class="nav-archive" role="presentation"><a href="{{ site.baseurl }}categories/">Categories</a></li>
+        <li class="nav-archive {% if page.current == 'archive' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}archive">Archive</a></li>
+        <li class="nav-tags {% if page.current == 'tags' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tags/">Tags</a></li>
         <!--
-        <li class="nav-speeches {% if page.url contains 'speeches' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/speeches">Speeches</a></li>
-        <li class="nav-fiction {% if page.url contains 'fiction' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/fiction">Fiction</a></li>
-        <li class="nav-author {% if page.current == 'author' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/ram">Author</a></li>
+        <li class="nav-categories {% if page.current == 'categories' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}categories/">Categories</a></li>
         -->
+        <li class="nav-contact {% if page.current == 'contact' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}contact/">Contact us</a></li>
     </ul>
     <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </div>

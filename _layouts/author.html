@@ -4,7 +4,7 @@ title: Author
 class: 'author-template'
 navigation: True
 label: Author
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/merakipost.svg'
 current: author
 ---
 
@@ -67,13 +67,31 @@ current: author
 
 {% assign sorted-posts = site.posts | where: "author", page.author %}
 {% for post in sorted-posts limit: 10  %}
+{% assign foundImage = 0 %}
 
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url | remove: '/' }}">{{ post.title }}</a></h2>
+            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            {% if post.subtitle %}
+              <h3 class="post-subtitle">by {{ post.subtitle }}</h3>
+            {% endif %}
         </header>
         <section class="post-excerpt">
-            <p>{{ post.content | strip_html | truncatewords: 75 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">&raquo;</a></p>
+            <p>{{ post.content | strip_html | truncatewords: 75 }} <a class="read-more" href="{{ post.url }}">&raquo;</a></p>
+            {% if post.image %}
+                <img src="{{ site.baseurl }}{{ post.image }}" alt="cover: {{ post.title }}" class="summary-img"/>
+            {% else %}
+                {% assign images = post.content | split:"<img " %}
+                {% for image in images %}
+                    {% if image contains 'src' %}
+                        {% if foundImage == 0 %}
+                            {% assign html = image | split:"/>" | first %}
+                            <img {{ html }} class="summary-img" />
+                            {% assign foundImage = 1 %}
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
         </section>
         <footer class="post-meta">
             <!-- author -->

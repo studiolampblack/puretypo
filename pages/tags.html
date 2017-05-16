@@ -1,0 +1,30 @@
+---
+layout: page
+title: Tags
+navigation: true
+logo: 'assets/images/merakipost.svg'
+current: tags
+cover: 'assets/images/cover1.jpg'
+permalink: /tags/
+---
+<div class="tag-cloud">
+  {% for tag in site.tags %}
+    <a href="#{{ tag[0] | slugify }}">{{ tag[0] | downcase }}</a>
+  {% endfor %}
+</div>
+<hr/>
+<div style="text-decoration: none;">
+  {% for tag in site.tags %}
+  <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <a href="{{ post.url }}">
+    <li>
+      {{ post.title }}
+      <small>{{ post.date | date_to_string }}</small>
+    </li>
+    </a>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</div>
