@@ -1,6 +1,6 @@
 ## Jasper
 
-This is a pure-Jekyll fork of [Typo](https://github.com/crimsoncanines/typo), a fork of [Jasper](https://github.com/biomadeira/jasper), a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll inspired by [Kasper](https://github.com/rosario/kasper).
+This is a pure-Jekyll fork of [Typo](https://github.com/studiolampblack/typo), a fork of [Jasper](https://github.com/biomadeira/jasper), a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll inspired by [Kasper](https://github.com/rosario/kasper).
 
 Typo (and Jasper) are great themes. Things are well-built, and Typo is typographically tuned. However, they're not "safe" Jekyll themes. When hosting your Jekyll site on GitHub Pages, GitHub runs the site with the `--safe` switch. Jasper and Typo have Jekyll plugins, which are not supported by GitHub Pages. So you need to build the site either locally or using Continuous Integration (such as Travis CI) and host it on GitHub.
 
@@ -11,7 +11,7 @@ Besides, Jasper and Typo have limitations such as, the site would have to be sin
 
 ## Live demo
 
-[Pure Typo Live Demo](http://crimsoncanines.github.io/puretypo/)
+[Pure Typo Live Demo](http://studiolampblack.github.io/puretypo/)
 
 [Jasper Live Demo](https://biomadeira.github.io/jasper)
 
